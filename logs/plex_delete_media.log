@@ -1,0 +1,3195 @@
+{
+	"time": "2021-12-27 20:55:21,769",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Logan', 'year': 2017, 'path': '/data/media/movies/Logan (2017)', 'size_on_disk_bytes': 16077913133, 'size_on_disk_gb': 16.08}"
+}
+{
+	"time": "2021-12-27 20:55:21,880",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Kingsman The Golden Circle', 'year': 2017, 'path': '/data/media/movies/Kingsman The Golden Circle (2017)', 'size_on_disk_bytes': 14390303440, 'size_on_disk_gb': 14.39}"
+}
+{
+	"time": "2021-12-27 20:55:21,927",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Dunkirk', 'year': 2017, 'path': '/data/media/movies/Dunkirk (2017)', 'size_on_disk_bytes': 9381845077, 'size_on_disk_gb': 9.38}"
+}
+{
+	"time": "2021-12-27 20:55:22,011",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'mother', 'year': 2017, 'path': '/data/media/movies/mother! (2017)', 'size_on_disk_bytes': 12164674361, 'size_on_disk_gb': 12.16}"
+}
+{
+	"time": "2021-12-27 20:55:22,191",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Wish Upon', 'year': 2017, 'path': '/data/media/movies/Wish Upon (2017)', 'size_on_disk_bytes': 7039994541, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 20:55:22,250",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Wild Child', 'year': 2008, 'path': '/data/media/movies/Wild Child (2008)', 'size_on_disk_bytes': 8522763246, 'size_on_disk_gb': 8.52}"
+}
+{
+	"time": "2021-12-27 20:55:22,417",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Wolf Man', 'year': 1941, 'path': '/data/media/movies/The Wolf Man (1941)', 'size_on_disk_bytes': 5867838537, 'size_on_disk_gb': 5.87}"
+}
+{
+	"time": "2021-12-27 20:55:22,571",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Frankenstein Meets the Wolf Man', 'year': 1943, 'path': '/data/media/movies/Frankenstein Meets the Wolf Man (1943)', 'size_on_disk_bytes': 849110769, 'size_on_disk_gb': 0.85}"
+}
+{
+	"time": "2021-12-27 20:55:22,698",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Wonder Woman', 'year': 2017, 'path': '/data/media/movies/Wonder Woman (2017)', 'size_on_disk_bytes': 10556777263, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 20:55:22,891",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Paddington', 'year': 2014, 'path': '/data/media/movies/Paddington (2014)', 'size_on_disk_bytes': 8209785059, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 20:55:22,969",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Bad Moms', 'year': 2016, 'path': '/data/media/movies/Bad Moms (2016)', 'size_on_disk_bytes': 6063366011, 'size_on_disk_gb': 6.06}"
+}
+{
+	"time": "2021-12-27 20:55:23,078",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Public Enemy', 'year': 2002, 'path': '/data/media/movies/Public Enemy (2002)', 'size_on_disk_bytes': 2409920512, 'size_on_disk_gb': 2.41}"
+}
+{
+	"time": "2021-12-27 20:55:23,209",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Neighbors 2 Sorority Rising', 'year': 2016, 'path': '/data/media/movies/Neighbors 2 Sorority Rising (2016)', 'size_on_disk_bytes': 7308257621, 'size_on_disk_gb': 7.31}"
+}
+{
+	"time": "2021-12-27 20:55:23,340",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Bucket List', 'year': 2007, 'path': '/data/media/movies/The Bucket List (2007)', 'size_on_disk_bytes': 8860482103, 'size_on_disk_gb': 8.86}"
+}
+{
+	"time": "2021-12-27 20:55:23,565",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Neighbors', 'year': 2014, 'path': '/data/media/movies/Neighbors (2014)', 'size_on_disk_bytes': 11052025907, 'size_on_disk_gb': 11.05}"
+}
+{
+	"time": "2021-12-27 20:55:23,928",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Mississippi Burning', 'year': 1988, 'path': '/data/media/movies/Mississippi Burning (1988)', 'size_on_disk_bytes': 14078992816, 'size_on_disk_gb': 14.08}"
+}
+{
+	"time": "2021-12-27 20:55:24,079",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Zootopia', 'year': 2016, 'path': '/data/media/movies/Zootopia (2016)', 'size_on_disk_bytes': 14530039018, 'size_on_disk_gb': 14.53}"
+}
+{
+	"time": "2021-12-27 20:55:24,356",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Pitch Perfect 2', 'year': 2015, 'path': '/data/media/movies/Pitch Perfect 2 (2015)', 'size_on_disk_bytes': 14892299290, 'size_on_disk_gb': 14.89}"
+}
+{
+	"time": "2021-12-27 20:55:33,704",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Pitch Perfect', 'year': 2012, 'path': '/data/media/movies/Pitch Perfect (2012)', 'size_on_disk_bytes': 11042691124, 'size_on_disk_gb': 11.04}"
+}
+{
+	"time": "2021-12-27 20:55:33,807",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Abraham Lincoln Vampire Hunter', 'year': 2012, 'path': '/data/media/movies/Abraham Lincoln Vampire Hunter (2012)', 'size_on_disk_bytes': 11728787483, 'size_on_disk_gb': 11.73}"
+}
+{
+	"time": "2021-12-27 20:55:33,951",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Jigsaw', 'year': 2017, 'path': '/data/media/movies/Jigsaw (2017)', 'size_on_disk_bytes': 7030630472, 'size_on_disk_gb': 7.03}"
+}
+{
+	"time": "2021-12-27 20:55:33,993",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Creep 2', 'year': 2017, 'path': '/data/media/movies/Creep 2 (2017)', 'size_on_disk_bytes': 6464577444, 'size_on_disk_gb': 6.46}"
+}
+{
+	"time": "2021-12-27 20:55:34,046",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Thor', 'year': 2011, 'path': '/data/media/movies/Thor (2011)', 'size_on_disk_bytes': 12911342556, 'size_on_disk_gb': 12.91}"
+}
+{
+	"time": "2021-12-27 20:55:34,142",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Thor The Dark World', 'year': 2013, 'path': '/data/media/movies/Thor The Dark World (2013)', 'size_on_disk_bytes': 8220064509, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 20:55:34,256",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Bad Moms Christmas', 'year': 2017, 'path': '/data/media/movies/A Bad Moms Christmas (2017)', 'size_on_disk_bytes': 8215036248, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 20:55:34,453",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Kingpin', 'year': 1996, 'path': '/data/media/movies/Kingpin (1996)', 'size_on_disk_bytes': 9385077877, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 20:55:34,629",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Journey to the Center of the Earth', 'year': 1959, 'path': '/data/media/movies/Journey to the Center of the Earth (1959)', 'size_on_disk_bytes': 12186649237, 'size_on_disk_gb': 12.19}"
+}
+{
+	"time": "2021-12-27 20:55:34,696",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Some Like It Hot', 'year': 1959, 'path': '/data/media/movies/Some Like It Hot (1959)', 'size_on_disk_bytes': 9384552701, 'size_on_disk_gb': 9.38}"
+}
+{
+	"time": "2021-12-27 20:55:35,023",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Importance of Being Earnest', 'year': 2002, 'path': '/data/media/movies/The Importance of Being Earnest (2002)', 'size_on_disk_bytes': 7034231384, 'size_on_disk_gb': 7.03}"
+}
+{
+	"time": "2021-12-27 20:55:35,169",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Frankenstein', 'year': 1931, 'path': '/data/media/movies/Frankenstein (1931)', 'size_on_disk_bytes': 3647250910, 'size_on_disk_gb': 3.65}"
+}
+{
+	"time": "2021-12-27 20:55:35,352",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Witness for the Prosecution', 'year': 1957, 'path': '/data/media/movies/Witness for the Prosecution (1957)', 'size_on_disk_bytes': 8531760741, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 20:55:35,507",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Snowman', 'year': 2017, 'path': '/data/media/movies/The Snowman (2017)', 'size_on_disk_bytes': 9391413052, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 20:55:35,757",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hell Ride', 'year': 2008, 'path': '/data/media/movies/Hell Ride (2008)', 'size_on_disk_bytes': 7044885098, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 20:55:35,997",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Born to Raise Hell', 'year': 2010, 'path': '/data/media/movies/Born to Raise Hell (2010)', 'size_on_disk_bytes': 7038822395, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 20:55:36,149",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Friday the 13th', 'year': 2009, 'path': '/data/media/movies/Friday the 13th (2009)', 'size_on_disk_bytes': 10563648543, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 20:55:36,436",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Study in Terror', 'year': 1965, 'path': '/data/media/movies/A Study in Terror (1965)', 'size_on_disk_bytes': 8207143592, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 20:55:36,597",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Abbott and Costello Meet Dr Jekyll and Mr Hyde', 'year': 1953, 'path': '/data/media/movies/Abbott and Costello Meet Dr. Jekyll and Mr. Hyde (1953)', 'size_on_disk_bytes': 1076942779, 'size_on_disk_gb': 1.08}"
+}
+{
+	"time": "2021-12-27 20:55:36,921",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Girl with a Pearl Earring', 'year': 2003, 'path': '/data/media/movies/Girl with a Pearl Earring (2003)', 'size_on_disk_bytes': 8214008447, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 20:55:46,023",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Darkest Hour', 'year': 2017, 'path': '/data/media/movies/Darkest Hour (2017)', 'size_on_disk_bytes': 9389995148, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 20:55:46,212",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Brides of Dracula', 'year': 1960, 'path': '/data/media/movies/The Brides of Dracula (1960)', 'size_on_disk_bytes': 1329130827, 'size_on_disk_gb': 1.33}"
+}
+{
+	"time": "2021-12-27 20:55:46,240",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Carrie', 'year': 1976, 'path': '/data/media/movies/Carrie (1976)', 'size_on_disk_bytes': 10563692372, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 20:55:46,466",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Christine', 'year': 1983, 'path': '/data/media/movies/Christine (1983)', 'size_on_disk_bytes': 9334215390, 'size_on_disk_gb': 9.33}"
+}
+{
+	"time": "2021-12-27 20:55:46,533",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Beauty and the Beast', 'year': 2017, 'path': '/data/media/movies/Beauty and the Beast (2017)', 'size_on_disk_bytes': 13545627371, 'size_on_disk_gb': 13.55}"
+}
+{
+	"time": "2021-12-27 20:55:46,708",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Murder on the Orient Express', 'year': 2017, 'path': '/data/media/movies/Murder on the Orient Express (2017)', 'size_on_disk_bytes': 3624812661, 'size_on_disk_gb': 3.62}"
+}
+{
+	"time": "2021-12-27 20:55:46,764",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Windbag the Sailor', 'year': 1936, 'path': '/data/media/movies/Windbag the Sailor (1936)', 'size_on_disk_bytes': 820287976, 'size_on_disk_gb': 0.82}"
+}
+{
+	"time": "2021-12-27 20:55:46,930",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Friday the 13th Part 2', 'year': 1981, 'path': '/data/media/movies/Friday the 13th Part 2 (1981)', 'size_on_disk_bytes': 8138580471, 'size_on_disk_gb': 8.14}"
+}
+{
+	"time": "2021-12-27 20:55:47,047",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Gran Torino', 'year': 2008, 'path': '/data/media/movies/Gran Torino (2008)', 'size_on_disk_bytes': 8530813556, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 20:55:47,157",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Old Bones of the River', 'year': 1938, 'path': '/data/media/movies/Old Bones of the River (1938)', 'size_on_disk_bytes': 865515766, 'size_on_disk_gb': 0.87}"
+}
+{
+	"time": "2021-12-27 20:55:47,295",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Cloverfield Paradox', 'year': 2018, 'path': '/data/media/movies/The Cloverfield Paradox (2018)', 'size_on_disk_bytes': 1668964898, 'size_on_disk_gb': 1.67}"
+}
+{
+	"time": "2021-12-27 20:55:47,419",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Thor Ragnarok', 'year': 2017, 'path': '/data/media/movies/Thor Ragnarok (2017)', 'size_on_disk_bytes': 11732485601, 'size_on_disk_gb': 11.73}"
+}
+{
+	"time": "2021-12-27 20:55:47,565",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Other Guys', 'year': 2010, 'path': '/data/media/movies/The Other Guys (2010)', 'size_on_disk_bytes': 15832374976, 'size_on_disk_gb': 15.83}"
+}
+{
+	"time": "2021-12-27 20:55:47,750",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Erin Brockovich', 'year': 2000, 'path': '/data/media/movies/Erin Brockovich (2000)', 'size_on_disk_bytes': 10881839193, 'size_on_disk_gb': 10.88}"
+}
+{
+	"time": "2021-12-27 20:55:47,902",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': '47 Meters Down', 'year': 2017, 'path': '/data/media/movies/47 Meters Down (2017)', 'size_on_disk_bytes': 12159210012, 'size_on_disk_gb': 12.16}"
+}
+{
+	"time": "2021-12-27 20:55:48,158",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Few Good Men', 'year': 1992, 'path': '/data/media/movies/A Few Good Men (1992)', 'size_on_disk_bytes': 12406499848, 'size_on_disk_gb': 12.41}"
+}
+{
+	"time": "2021-12-27 20:55:48,397",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Marked for Death', 'year': 1990, 'path': '/data/media/movies/Marked for Death (1990)', 'size_on_disk_bytes': 7949524160, 'size_on_disk_gb': 7.95}"
+}
+{
+	"time": "2021-12-27 20:55:48,621",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Death of Stalin', 'year': 2017, 'path': '/data/media/movies/The Death of Stalin (2017)', 'size_on_disk_bytes': 8528474699, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 20:55:48,876",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Dracula', 'year': 1979, 'path': '/data/media/movies/Dracula (1979)', 'size_on_disk_bytes': 10071629369, 'size_on_disk_gb': 10.07}"
+}
+{
+	"time": "2021-12-27 20:55:57,084",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'War for the Planet of the Apes', 'year': 2017, 'path': '/data/media/movies/War for the Planet of the Apes (2017)', 'size_on_disk_bytes': 10880141350, 'size_on_disk_gb': 10.88}"
+}
+{
+	"time": "2021-12-27 20:55:57,292",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Shape of Water', 'year': 2017, 'path': '/data/media/movies/The Shape of Water (2017)', 'size_on_disk_bytes': 10558486413, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 20:55:57,492",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Pacific Rim', 'year': 2013, 'path': '/data/media/movies/Pacific Rim (2013)', 'size_on_disk_bytes': 15603016143, 'size_on_disk_gb': 15.6}"
+}
+{
+	"time": "2021-12-27 20:55:57,552",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Paddington 2', 'year': 2017, 'path': '/data/media/movies/Paddington 2 (2017)', 'size_on_disk_bytes': 11262965776, 'size_on_disk_gb': 11.26}"
+}
+{
+	"time": "2021-12-27 20:55:57,670",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Delirium', 'year': 2018, 'path': '/data/media/movies/Delirium (2018)', 'size_on_disk_bytes': 9845031732, 'size_on_disk_gb': 9.85}"
+}
+{
+	"time": "2021-12-27 20:55:57,774",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Late Spring', 'year': 1949, 'path': '/data/media/movies/Late Spring (1949)', 'size_on_disk_bytes': 7040227084, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 20:55:57,869",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Fantastic Beasts and Where to Find Them', 'year': 2016, 'path': '/data/media/movies/Fantastic Beasts and Where to Find Them (2016)', 'size_on_disk_bytes': 11851422127, 'size_on_disk_gb': 11.85}"
+}
+{
+	"time": "2021-12-27 20:55:57,936",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Sudden Death', 'year': 1995, 'path': '/data/media/movies/Sudden Death (1995)', 'size_on_disk_bytes': 9368865024, 'size_on_disk_gb': 9.37}"
+}
+{
+	"time": "2021-12-27 20:55:58,276",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Executive Decision', 'year': 1996, 'path': '/data/media/movies/Executive Decision (1996)', 'size_on_disk_bytes': 10561640436, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 20:55:58,335",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Insomnia', 'year': 2002, 'path': '/data/media/movies/Insomnia (2002)', 'size_on_disk_bytes': 11724418226, 'size_on_disk_gb': 11.72}"
+}
+{
+	"time": "2021-12-27 20:55:58,473",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Bridge of Spies', 'year': 2015, 'path': '/data/media/movies/Bridge of Spies (2015)', 'size_on_disk_bytes': 11727047187, 'size_on_disk_gb': 11.73}"
+}
+{
+	"time": "2021-12-27 20:55:58,614",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'All the Presidents Men', 'year': 1976, 'path': "/data/media/movies/All the President's Men (1976)", 'size_on_disk_bytes': 12847171348, 'size_on_disk_gb': 12.85}"
+}
+{
+	"time": "2021-12-27 20:55:58,848",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Proud Mary', 'year': 2018, 'path': '/data/media/movies/Proud Mary (2018)', 'size_on_disk_bytes': 7041526601, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 20:55:58,935",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Firewall', 'year': 2006, 'path': '/data/media/movies/Firewall (2006)', 'size_on_disk_bytes': 7982314753, 'size_on_disk_gb': 7.98}"
+}
+{
+	"time": "2021-12-27 20:55:59,111",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'As Good as It Gets', 'year': 1997, 'path': '/data/media/movies/As Good as It Gets (1997)', 'size_on_disk_bytes': 10559989562, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 20:55:59,267",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'An Inspector Calls', 'year': 1954, 'path': '/data/media/movies/An Inspector Calls (1954)', 'size_on_disk_bytes': 7219390227, 'size_on_disk_gb': 7.22}"
+}
+{
+	"time": "2021-12-27 20:55:59,433",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Mamma Mia', 'year': 2008, 'path': '/data/media/movies/Mamma Mia! (2008)', 'size_on_disk_bytes': 14808248355, 'size_on_disk_gb': 14.81}"
+}
+{
+	"time": "2021-12-27 20:55:59,658",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Fifty Shades of Grey', 'year': 2015, 'path': '/data/media/movies/Fifty Shades of Grey (2015)', 'size_on_disk_bytes': 14383734767, 'size_on_disk_gb': 14.38}"
+}
+{
+	"time": "2021-12-27 20:55:59,896",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Fifty Shades Darker', 'year': 2017, 'path': '/data/media/movies/Fifty Shades Darker (2017)', 'size_on_disk_bytes': 10563232835, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 20:56:09,785",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'You Were Never Really Here', 'year': 2017, 'path': '/data/media/movies/You Were Never Really Here (2017)', 'size_on_disk_bytes': 10546572535, 'size_on_disk_gb': 10.55}"
+}
+{
+	"time": "2021-12-27 20:56:09,855",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Doctor Strange', 'year': 2016, 'path': '/data/media/movies/Doctor Strange (2016)', 'size_on_disk_bytes': 16908812930, 'size_on_disk_gb': 16.91}"
+}
+{
+	"time": "2021-12-27 20:56:09,974",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ghost in the Shell', 'year': 2017, 'path': '/data/media/movies/Ghost in the Shell (2017)', 'size_on_disk_bytes': 8213876714, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 20:59:12,476",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Friday the 13th', 'year': 1980, 'path': '/data/media/movies/Friday the 13th (1980)', 'size_on_disk_bytes': 10200688923, 'size_on_disk_gb': 10.2}"
+}
+{
+	"time": "2021-12-27 20:59:12,568",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Dracula', 'year': 1958, 'path': '/data/media/movies/Dracula (1958)', 'size_on_disk_bytes': 7646563610, 'size_on_disk_gb': 7.65}"
+}
+{
+	"time": "2021-12-27 20:59:12,815",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ghost in the Shell', 'year': 1995, 'path': '/data/media/movies/Ghost in the Shell (1995)', 'size_on_disk_bytes': 5864223564, 'size_on_disk_gb': 5.86}"
+}
+{
+	"time": "2021-12-27 20:59:13,195",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ghost in the Shell', 'year': 1995, 'path': None, 'size_on_disk_bytes': 0, 'size_on_disk_gb': 0.0}"
+}
+{
+	"time": "2021-12-27 20:59:13,215",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'House on Elm Lake', 'year': 2017, 'path': '/data/media/movies/House on Elm Lake (2017)', 'size_on_disk_bytes': 3400418522, 'size_on_disk_gb': 3.4}"
+}
+{
+	"time": "2021-12-27 20:59:13,242",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'TRON Legacy', 'year': 2010, 'path': '/data/media/movies/TRON Legacy (2010)', 'size_on_disk_bytes': 15679352697, 'size_on_disk_gb': 15.68}"
+}
+{
+	"time": "2021-12-27 20:59:13,422",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Maze Runner The Death Cure', 'year': 2018, 'path': '/data/media/movies/Maze Runner The Death Cure (2018)', 'size_on_disk_bytes': 11738824828, 'size_on_disk_gb': 11.74}"
+}
+{
+	"time": "2021-12-27 20:59:13,465",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Miss Sloane', 'year': 2016, 'path': '/data/media/movies/Miss Sloane (2016)', 'size_on_disk_bytes': 10578961760, 'size_on_disk_gb': 10.58}"
+}
+{
+	"time": "2021-12-27 20:59:13,675",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Die Hard', 'year': 1988, 'path': '/data/media/movies/Die Hard (1988)', 'size_on_disk_bytes': 15445768964, 'size_on_disk_gb': 15.45}"
+}
+{
+	"time": "2021-12-27 20:59:13,849",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Deep Blue Sea 2', 'year': 2018, 'path': '/data/media/movies/Deep Blue Sea 2 (2018)', 'size_on_disk_bytes': 11029516486, 'size_on_disk_gb': 11.03}"
+}
+{
+	"time": "2021-12-27 20:59:13,878",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Clueless', 'year': 1995, 'path': '/data/media/movies/Clueless (1995)', 'size_on_disk_bytes': 8217125148, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 20:59:13,969",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Dear John', 'year': 2010, 'path': '/data/media/movies/Dear John (2010)', 'size_on_disk_bytes': 3760448720, 'size_on_disk_gb': 3.76}"
+}
+{
+	"time": "2021-12-27 20:59:14,071",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Irreversible', 'year': 2002, 'path': '/data/media/movies/Irreversible (2002)', 'size_on_disk_bytes': 7031040280, 'size_on_disk_gb': 7.03}"
+}
+{
+	"time": "2021-12-27 20:59:14,316",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Inside Out', 'year': 2015, 'path': '/data/media/movies/Inside Out (2015)', 'size_on_disk_bytes': 12276948574, 'size_on_disk_gb': 12.28}"
+}
+{
+	"time": "2021-12-27 20:59:14,503",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hostiles', 'year': 2017, 'path': '/data/media/movies/Hostiles (2017)', 'size_on_disk_bytes': 10563476298, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 20:59:14,721",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Forever My Girl', 'year': 2018, 'path': '/data/media/movies/Forever My Girl (2018)', 'size_on_disk_bytes': 8213023755, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 20:59:14,892",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': '12 Strong', 'year': 2018, 'path': '/data/media/movies/12 Strong (2018)', 'size_on_disk_bytes': 10561461901, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 20:59:15,068",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Winchester', 'year': 2018, 'path': '/data/media/movies/Winchester (2018)', 'size_on_disk_bytes': 8587891220, 'size_on_disk_gb': 8.59}"
+}
+{
+	"time": "2021-12-27 20:59:15,166",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Fifty Shades Freed', 'year': 2018, 'path': '/data/media/movies/Fifty Shades Freed (2018)', 'size_on_disk_bytes': 8531074101, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 20:59:15,302",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Sicario', 'year': 2015, 'path': '/data/media/movies/Sicario (2015)', 'size_on_disk_bytes': 8530378382, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 20:59:21,655",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Twin Town', 'year': 1997, 'path': '/data/media/movies/Twin Town (1997)', 'size_on_disk_bytes': 1074016813, 'size_on_disk_gb': 1.07}"
+}
+{
+	"time": "2021-12-27 20:59:21,794",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Pitch Perfect 3', 'year': 2017, 'path': '/data/media/movies/Pitch Perfect 3 (2017)', 'size_on_disk_bytes': 13362024853, 'size_on_disk_gb': 13.36}"
+}
+{
+	"time": "2021-12-27 20:59:21,878",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Captain America The First Avenger', 'year': 2011, 'path': '/data/media/movies/Captain America The First Avenger (2011)', 'size_on_disk_bytes': 9384484892, 'size_on_disk_gb': 9.38}"
+}
+{
+	"time": "2021-12-27 20:59:21,945",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'In the Fade', 'year': 2017, 'path': '/data/media/movies/In the Fade (2017)', 'size_on_disk_bytes': 10557791801, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 20:59:22,042",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Black Panther', 'year': 2018, 'path': '/data/media/movies/Black Panther (2018)', 'size_on_disk_bytes': 11734295432, 'size_on_disk_gb': 11.73}"
+}
+{
+	"time": "2021-12-27 20:59:22,222",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Iron Man', 'year': 2008, 'path': '/data/media/movies/Iron Man (2008)', 'size_on_disk_bytes': 8532342759, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 20:59:22,347",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Nice Guys', 'year': 2016, 'path': '/data/media/movies/The Nice Guys (2016)', 'size_on_disk_bytes': 15024555794, 'size_on_disk_gb': 15.02}"
+}
+{
+	"time": "2021-12-27 20:59:22,609",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'This Is the End', 'year': 2013, 'path': '/data/media/movies/This Is the End (2013)', 'size_on_disk_bytes': 10030415123, 'size_on_disk_gb': 10.03}"
+}
+{
+	"time": "2021-12-27 20:59:22,873",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Red Sparrow', 'year': 2018, 'path': '/data/media/movies/Red Sparrow (2018)', 'size_on_disk_bytes': 11730202944, 'size_on_disk_gb': 11.73}"
+}
+{
+	"time": "2021-12-27 20:59:23,072",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Game Night', 'year': 2018, 'path': '/data/media/movies/Game Night (2018)', 'size_on_disk_bytes': 8212462895, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 20:59:23,206",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Dredd', 'year': 2012, 'path': '/data/media/movies/Dredd (2012)', 'size_on_disk_bytes': 10514422023, 'size_on_disk_gb': 10.51}"
+}
+{
+	"time": "2021-12-27 20:59:23,367",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Kissing Booth', 'year': 2018, 'path': '/data/media/movies/The Kissing Booth (2018)', 'size_on_disk_bytes': 5961837828, 'size_on_disk_gb': 5.96}"
+}
+{
+	"time": "2021-12-27 20:59:23,645",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Brokeback Mountain', 'year': 2005, 'path': '/data/media/movies/Brokeback Mountain (2005)', 'size_on_disk_bytes': 12376301399, 'size_on_disk_gb': 12.38}"
+}
+{
+	"time": "2021-12-27 20:59:23,859",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Sleepless in Seattle', 'year': 1993, 'path': '/data/media/movies/Sleepless in Seattle (1993)', 'size_on_disk_bytes': 9385406678, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 20:59:23,993",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Early Man', 'year': 2018, 'path': '/data/media/movies/Early Man (2018)', 'size_on_disk_bytes': 4691890637, 'size_on_disk_gb': 4.69}"
+}
+{
+	"time": "2021-12-27 20:59:24,215",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'City of God', 'year': 2002, 'path': '/data/media/movies/City of God (2002)', 'size_on_disk_bytes': 11724983196, 'size_on_disk_gb': 11.72}"
+}
+{
+	"time": "2021-12-27 20:59:24,410",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': '20 Ft Below The Darkness Descending', 'year': 2014, 'path': '/data/media/movies/20 Ft Below The Darkness Descending (2014)', 'size_on_disk_bytes': 8213629374, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 20:59:33,249",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Random Encounters', 'year': 2013, 'path': '/data/media/movies/Random Encounters (2013)', 'size_on_disk_bytes': 1461475328, 'size_on_disk_gb': 1.46}"
+}
+{
+	"time": "2021-12-27 20:59:33,325",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Code of Silence', 'year': 1985, 'path': '/data/media/movies/Code of Silence (1985)', 'size_on_disk_bytes': 8215082149, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 20:59:33,394",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'High School Musical', 'year': 2006, 'path': '/data/media/movies/High School Musical (2006)', 'size_on_disk_bytes': 7043549000, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 20:59:33,597",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'High School Musical 2', 'year': 2007, 'path': '/data/media/movies/High School Musical 2 (2007)', 'size_on_disk_bytes': 8529887668, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 20:59:33,636",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'High School Musical 3 Senior Year', 'year': 2008, 'path': '/data/media/movies/High School Musical 3 Senior Year (2008)', 'size_on_disk_bytes': 10175932522, 'size_on_disk_gb': 10.18}"
+}
+{
+	"time": "2021-12-27 20:59:33,829",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Love Simon', 'year': 2018, 'path': '/data/media/movies/Love, Simon (2018)', 'size_on_disk_bytes': 9377498281, 'size_on_disk_gb': 9.38}"
+}
+{
+	"time": "2021-12-27 20:59:33,957",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Tomb Raider', 'year': 2018, 'path': '/data/media/movies/Tomb Raider (2018)', 'size_on_disk_bytes': 13829642598, 'size_on_disk_gb': 13.83}"
+}
+{
+	"time": "2021-12-27 20:59:34,000",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Lodgers', 'year': 2017, 'path': '/data/media/movies/The Lodgers (2017)', 'size_on_disk_bytes': 10388440074, 'size_on_disk_gb': 10.39}"
+}
+{
+	"time": "2021-12-27 20:59:34,104",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Demolition Man', 'year': 1993, 'path': '/data/media/movies/Demolition Man (1993)', 'size_on_disk_bytes': 9751117469, 'size_on_disk_gb': 9.75}"
+}
+{
+	"time": "2021-12-27 20:59:34,163",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Midnight Sun', 'year': 2018, 'path': '/data/media/movies/Midnight Sun (2018)', 'size_on_disk_bytes': 7040758303, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 20:59:34,276",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Unsane', 'year': 2018, 'path': '/data/media/movies/Unsane (2018)', 'size_on_disk_bytes': 8217275809, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 20:59:34,531",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Paul Apostle of Christ', 'year': 2018, 'path': '/data/media/movies/Paul, Apostle of Christ (2018)', 'size_on_disk_bytes': 8216311848, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 20:59:34,667",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Pacific Rim Uprising', 'year': 2018, 'path': '/data/media/movies/Pacific Rim Uprising (2018)', 'size_on_disk_bytes': 8214112832, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 20:59:34,879",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Twilight Saga Eclipse', 'year': 2010, 'path': '/data/media/movies/The Twilight Saga Eclipse (2010)', 'size_on_disk_bytes': 2124343346, 'size_on_disk_gb': 2.12}"
+}
+{
+	"time": "2021-12-27 20:59:35,018",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Twilight', 'year': 2008, 'path': '/data/media/movies/Twilight (2008)', 'size_on_disk_bytes': 2164837394, 'size_on_disk_gb': 2.16}"
+}
+{
+	"time": "2021-12-27 20:59:35,124",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Twilight Saga Breaking Dawn  Part 2', 'year': 2012, 'path': '/data/media/movies/The Twilight Saga Breaking Dawn - Part 2 (2012)', 'size_on_disk_bytes': 2009849431, 'size_on_disk_gb': 2.01}"
+}
+{
+	"time": "2021-12-27 20:59:35,281",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Twilight Saga New Moon', 'year': 2009, 'path': '/data/media/movies/The Twilight Saga New Moon (2009)', 'size_on_disk_bytes': 2277001000, 'size_on_disk_gb': 2.28}"
+}
+{
+	"time": "2021-12-27 20:59:40,601",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Twilight Saga Breaking Dawn  Part 1', 'year': 2011, 'path': '/data/media/movies/The Twilight Saga Breaking Dawn - Part 1 (2011)', 'size_on_disk_bytes': 1991514108, 'size_on_disk_gb': 1.99}"
+}
+{
+	"time": "2021-12-27 20:59:40,697",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Devils', 'year': 1971, 'path': '/data/media/movies/The Devils (1971)', 'size_on_disk_bytes': 5996978166, 'size_on_disk_gb': 6.0}"
+}
+{
+	"time": "2021-12-27 20:59:40,824",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Rampage', 'year': 2018, 'path': '/data/media/movies/Rampage (2018)', 'size_on_disk_bytes': 1966833866, 'size_on_disk_gb': 1.97}"
+}
+{
+	"time": "2021-12-27 20:59:40,883",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Kung Fu Panda Holiday', 'year': 2010, 'path': '/data/media/movies/Kung Fu Panda Holiday (2010)', 'size_on_disk_bytes': 2348597916, 'size_on_disk_gb': 2.35}"
+}
+{
+	"time": "2021-12-27 20:59:40,919",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Kung Fu Panda 3', 'year': 2016, 'path': '/data/media/movies/Kung Fu Panda 3 (2016)', 'size_on_disk_bytes': 12441958971, 'size_on_disk_gb': 12.44}"
+}
+{
+	"time": "2021-12-27 20:59:41,115",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Kung Fu Panda 2', 'year': 2011, 'path': '/data/media/movies/Kung Fu Panda 2 (2011)', 'size_on_disk_bytes': 9270010798, 'size_on_disk_gb': 9.27}"
+}
+{
+	"time": "2021-12-27 20:59:41,292",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Kung Fu Panda', 'year': 2008, 'path': '/data/media/movies/Kung Fu Panda (2008)', 'size_on_disk_bytes': 4691824905, 'size_on_disk_gb': 4.69}"
+}
+{
+	"time": "2021-12-27 20:59:41,530",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Terminal', 'year': 2018, 'path': '/data/media/movies/Terminal (2018)', 'size_on_disk_bytes': 7040942565, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 20:59:41,608",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Quiet Place', 'year': 2018, 'path': '/data/media/movies/A Quiet Place (2018)', 'size_on_disk_bytes': 7037059189, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 20:59:41,725",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Pact II', 'year': 2014, 'path': '/data/media/movies/The Pact II (2014)', 'size_on_disk_bytes': 8484652078, 'size_on_disk_gb': 8.48}"
+}
+{
+	"time": "2021-12-27 20:59:41,886",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ready Player One', 'year': 2018, 'path': '/data/media/movies/Ready Player One (2018)', 'size_on_disk_bytes': 10563658902, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 20:59:42,070",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'I Feel Pretty', 'year': 2018, 'path': '/data/media/movies/I Feel Pretty (2018)', 'size_on_disk_bytes': 8530644420, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 20:59:42,340",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Daddy Day Care', 'year': 2003, 'path': '/data/media/movies/Daddy Day Care (2003)', 'size_on_disk_bytes': 10178353159, 'size_on_disk_gb': 10.18}"
+}
+{
+	"time": "2021-12-27 20:59:42,621",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Young Frankenstein', 'year': 1974, 'path': '/data/media/movies/Young Frankenstein (1974)', 'size_on_disk_bytes': 8533777422, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 20:59:42,764",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Up', 'year': 2009, 'path': '/data/media/movies/Up (2009)', 'size_on_disk_bytes': 8530409718, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 20:59:48,470",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Detropia', 'year': 2012, 'path': '/data/media/movies/Detropia (2012)', 'size_on_disk_bytes': 3997712919, 'size_on_disk_gb': 4.0}"
+}
+{
+	"time": "2021-12-27 20:59:48,842",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Vertigo', 'year': 1958, 'path': '/data/media/movies/Vertigo (1958)', 'size_on_disk_bytes': 17183939923, 'size_on_disk_gb': 17.18}"
+}
+{
+	"time": "2021-12-27 20:59:48,874",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Houses October Built', 'year': 2014, 'path': '/data/media/movies/The Houses October Built (2014)', 'size_on_disk_bytes': 7016590942, 'size_on_disk_gb': 7.02}"
+}
+{
+	"time": "2021-12-27 20:59:49,036",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'One Direction This Is Us', 'year': 2013, 'path': '/data/media/movies/One Direction This Is Us (2013)', 'size_on_disk_bytes': 11429816701, 'size_on_disk_gb': 11.43}"
+}
+{
+	"time": "2021-12-27 20:59:49,113",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'One Direction Where We Are  The Concert Film', 'year': 2014, 'path': '/data/media/movies/One Direction Where We Are - The Concert (2014)', 'size_on_disk_bytes': 4691508738, 'size_on_disk_gb': 4.69}"
+}
+{
+	"time": "2021-12-27 20:59:49,318",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Tully', 'year': 2018, 'path': '/data/media/movies/Tully (2018)', 'size_on_disk_bytes': 7041330685, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 20:59:49,393",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Houses October Built 2', 'year': 2017, 'path': '/data/media/movies/The Houses October Built 2 (2017)', 'size_on_disk_bytes': 8214012143, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 20:59:49,639",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Full Metal Jacket', 'year': 1987, 'path': '/data/media/movies/Full Metal Jacket (1987)', 'size_on_disk_bytes': 13310102767, 'size_on_disk_gb': 13.31}"
+}
+{
+	"time": "2021-12-27 20:59:49,747",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'American Sniper', 'year': 2014, 'path': '/data/media/movies/American Sniper (2014)', 'size_on_disk_bytes': 14553928396, 'size_on_disk_gb': 14.55}"
+}
+{
+	"time": "2021-12-27 20:59:49,974",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Walk to Remember', 'year': 2002, 'path': '/data/media/movies/A Walk to Remember (2002)', 'size_on_disk_bytes': 12125386760, 'size_on_disk_gb': 12.13}"
+}
+{
+	"time": "2021-12-27 20:59:50,106",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Princess Diaries', 'year': 2001, 'path': '/data/media/movies/The Princess Diaries (2001)', 'size_on_disk_bytes': 9382427111, 'size_on_disk_gb': 9.38}"
+}
+{
+	"time": "2021-12-27 20:59:50,351",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Princess Diaries 2 Royal Engagement', 'year': 2004, 'path': '/data/media/movies/The Princess Diaries 2 Royal Engagement (2004)', 'size_on_disk_bytes': 9390331479, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 20:59:50,549",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Everything Everything', 'year': 2017, 'path': '/data/media/movies/Everything, Everything (2017)', 'size_on_disk_bytes': 13134768008, 'size_on_disk_gb': 13.13}"
+}
+{
+	"time": "2021-12-27 20:59:54,612",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Terminal', 'year': 2004, 'path': '/data/media/movies/The Terminal (2004)', 'size_on_disk_bytes': 11734804328, 'size_on_disk_gb': 11.73}"
+}
+{
+	"time": "2021-12-27 20:59:54,736",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Tales from the Crypt', 'year': 1972, 'path': '/data/media/movies/Tales from the Crypt (1972)', 'size_on_disk_bytes': 8276883284, 'size_on_disk_gb': 8.28}"
+}
+{
+	"time": "2021-12-27 20:59:54,845",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Tales from the Crypt Demon Knight', 'year': 1995, 'path': '/data/media/movies/Tales from the Crypt Demon Knight (1995)', 'size_on_disk_bytes': 8207866809, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 20:59:55,020",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Invisible Man', 'year': 2020, 'path': '/data/media/movies/The Invisible Man (2020)', 'size_on_disk_bytes': 11735244751, 'size_on_disk_gb': 11.74}"
+}
+{
+	"time": "2021-12-27 20:59:55,061",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Shape of Things to Come', 'year': 1979, 'path': '/data/media/movies/The Shape of Things to Come (1979)', 'size_on_disk_bytes': 10563246611, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 20:59:55,107",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Doctor Dolittle', 'year': 1967, 'path': '/data/media/movies/Doctor Dolittle (1967)', 'size_on_disk_bytes': 11741983343, 'size_on_disk_gb': 11.74}"
+}
+{
+	"time": "2021-12-27 20:59:55,188",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Blue Murder at St Trinians', 'year': 1957, 'path': "/data/media/movies/Blue Murder at St. Trinian's (1957)", 'size_on_disk_bytes': 1020805120, 'size_on_disk_gb': 1.02}"
+}
+{
+	"time": "2021-12-27 20:59:55,317",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Pure Hell of St Trinians', 'year': 1960, 'path': "/data/media/movies/The Pure Hell of St. Trinian's (1960)", 'size_on_disk_bytes': 1105260544, 'size_on_disk_gb': 1.11}"
+}
+{
+	"time": "2021-12-27 20:59:55,451",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'One Night in the Tropics', 'year': 1940, 'path': '/data/media/movies/One Night in the Tropics (1940)', 'size_on_disk_bytes': 1374243961, 'size_on_disk_gb': 1.37}"
+}
+{
+	"time": "2021-12-27 20:59:55,551",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Bride of Frankenstein', 'year': 1935, 'path': '/data/media/movies/Bride of Frankenstein (1935)', 'size_on_disk_bytes': 5866111061, 'size_on_disk_gb': 5.87}"
+}
+{
+	"time": "2021-12-27 20:59:55,655",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Curse of Frankenstein', 'year': 1957, 'path': '/data/media/movies/The Curse of Frankenstein (1957)', 'size_on_disk_bytes': 5870397181, 'size_on_disk_gb': 5.87}"
+}
+{
+	"time": "2021-12-27 20:59:55,852",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Ghost of Frankenstein', 'year': 1942, 'path': '/data/media/movies/The Ghost of Frankenstein (1942)', 'size_on_disk_bytes': 5860992901, 'size_on_disk_gb': 5.86}"
+}
+{
+	"time": "2021-12-27 20:59:55,994",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Ghost and Mrs Muir', 'year': 1947, 'path': '/data/media/movies/The Ghost and Mrs. Muir (1947)', 'size_on_disk_bytes': 8217142484, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 20:59:56,203",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Rookie', 'year': 1990, 'path': '/data/media/movies/The Rookie (1990)', 'size_on_disk_bytes': 12794915288, 'size_on_disk_gb': 12.79}"
+}
+{
+	"time": "2021-12-27 20:59:56,321",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Goodnight Mister Tom', 'year': 1998, 'path': '/data/media/movies/Goodnight Mister Tom (1998)', 'size_on_disk_bytes': 7034758549, 'size_on_disk_gb': 7.03}"
+}
+{
+	"time": "2021-12-27 20:59:56,530",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Black Abbot', 'year': 1963, 'path': '/data/media/movies/The Black Abbot (1963)', 'size_on_disk_bytes': 1427517965, 'size_on_disk_gb': 1.43}"
+}
+{
+	"time": "2021-12-27 20:59:56,862",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Abbott and Costello Meet the Mummy', 'year': 1955, 'path': '/data/media/movies/Abbott and Costello Meet the Mummy (1955)', 'size_on_disk_bytes': 8530194008, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 20:59:57,182",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Avengers Infinity War', 'year': 2018, 'path': '/data/media/movies/Avengers Infinity War (2018)', 'size_on_disk_bytes': 12902318788, 'size_on_disk_gb': 12.9}"
+}
+{
+	"time": "2021-12-27 21:00:05,106",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Second Best Exotic Marigold Hotel', 'year': 2015, 'path': '/data/media/movies/The Second Best Exotic Marigold Hotel (2015)', 'size_on_disk_bytes': 10565969206, 'size_on_disk_gb': 10.57}"
+}
+{
+	"time": "2021-12-27 21:00:05,237",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Best Exotic Marigold Hotel', 'year': 2011, 'path': '/data/media/movies/The Best Exotic Marigold Hotel (2011)', 'size_on_disk_bytes': 15982293421, 'size_on_disk_gb': 15.98}"
+}
+{
+	"time": "2021-12-27 21:00:05,547",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Dracula', 'year': 1958, 'path': None, 'size_on_disk_bytes': 0, 'size_on_disk_gb': 0.0}"
+}
+{
+	"time": "2021-12-27 21:00:05,578",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Now Is Good', 'year': 2012, 'path': '/data/media/movies/Now Is Good (2012)', 'size_on_disk_bytes': 8219013832, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 21:00:05,605",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Life Is Beautiful', 'year': 1997, 'path': '/data/media/movies/Life Is Beautiful (1997)', 'size_on_disk_bytes': 10347707139, 'size_on_disk_gb': 10.35}"
+}
+{
+	"time": "2021-12-27 21:00:05,658",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Cinderella Story', 'year': 2004, 'path': '/data/media/movies/A Cinderella Story (2004)', 'size_on_disk_bytes': 7037718543, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:00:05,706",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Charlie and the Chocolate Factory', 'year': 2005, 'path': '/data/media/movies/Charlie and the Chocolate Factory (2005)', 'size_on_disk_bytes': 8527555911, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:00:05,986",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Footloose', 'year': 2011, 'path': '/data/media/movies/Footloose (2011)', 'size_on_disk_bytes': 8533462883, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:00:06,482",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Footloose', 'year': 2011, 'path': None, 'size_on_disk_bytes': 0, 'size_on_disk_gb': 0.0}"
+}
+{
+	"time": "2021-12-27 21:00:06,512",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Fault in Our Stars', 'year': 2014, 'path': '/data/media/movies/The Fault in Our Stars (2014)', 'size_on_disk_bytes': 13666221365, 'size_on_disk_gb': 13.67}"
+}
+{
+	"time": "2021-12-27 21:00:06,566",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Paper Towns', 'year': 2015, 'path': '/data/media/movies/Paper Towns (2015)', 'size_on_disk_bytes': 9391109214, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:00:06,637",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'If I Stay', 'year': 2014, 'path': '/data/media/movies/If I Stay (2014)', 'size_on_disk_bytes': 10877331633, 'size_on_disk_gb': 10.88}"
+}
+{
+	"time": "2021-12-27 21:00:06,780",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Jean de Florette', 'year': 1986, 'path': '/data/media/movies/Jean de Florette (1986)', 'size_on_disk_bytes': 12905995321, 'size_on_disk_gb': 12.91}"
+}
+{
+	"time": "2021-12-27 21:00:07,078",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Manon of the Spring', 'year': 1986, 'path': '/data/media/movies/Manon of the Spring (1986)', 'size_on_disk_bytes': 16863572039, 'size_on_disk_gb': 16.86}"
+}
+{
+	"time": "2021-12-27 21:00:07,157",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hairspray', 'year': 2007, 'path': '/data/media/movies/Hairspray (2007)', 'size_on_disk_bytes': 8510054351, 'size_on_disk_gb': 8.51}"
+}
+{
+	"time": "2021-12-27 21:00:07,424",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': '17 Again', 'year': 2009, 'path': '/data/media/movies/17 Again (2009)', 'size_on_disk_bytes': 8524866193, 'size_on_disk_gb': 8.52}"
+}
+{
+	"time": "2021-12-27 21:00:07,609",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Finding Dory', 'year': 2016, 'path': '/data/media/movies/Finding Dory (2016)', 'size_on_disk_bytes': 13251383757, 'size_on_disk_gb': 13.25}"
+}
+{
+	"time": "2021-12-27 21:00:07,749",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Doom', 'year': 2005, 'path': '/data/media/movies/Doom (2005)', 'size_on_disk_bytes': 9377606466, 'size_on_disk_gb': 9.38}"
+}
+{
+	"time": "2021-12-27 21:00:07,936",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Remember Me', 'year': 2010, 'path': '/data/media/movies/Remember Me (2010)', 'size_on_disk_bytes': 2299548367, 'size_on_disk_gb': 2.3}"
+}
+{
+	"time": "2021-12-27 21:00:08,130",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Sing', 'year': 2016, 'path': '/data/media/movies/Sing (2016)', 'size_on_disk_bytes': 11894481262, 'size_on_disk_gb': 11.89}"
+}
+{
+	"time": "2021-12-27 21:00:12,945",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Secret Life of Pets', 'year': 2016, 'path': '/data/media/movies/The Secret Life of Pets (2016)', 'size_on_disk_bytes': 4686101089, 'size_on_disk_gb': 4.69}"
+}
+{
+	"time": "2021-12-27 21:00:13,052",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Marley  Me', 'year': 2008, 'path': '/data/media/movies/Marley & Me (2008)', 'size_on_disk_bytes': 9394439227, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:00:13,183",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'West Side Story', 'year': 2021, 'path': '/data/media/movies/West Side Story (2021)', 'size_on_disk_bytes': 0, 'size_on_disk_gb': 0.0}"
+}
+{
+	"time": "2021-12-27 21:00:13,246",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'La Haine', 'year': 1995, 'path': '/data/media/movies/La Haine (1995)', 'size_on_disk_bytes': 10738588976, 'size_on_disk_gb': 10.74}"
+}
+{
+	"time": "2021-12-27 21:00:13,436",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Love Finds You in Charm', 'year': 2015, 'path': '/data/media/movies/Love Finds You in Charm (2015)', 'size_on_disk_bytes': 1506496332, 'size_on_disk_gb': 1.51}"
+}
+{
+	"time": "2021-12-27 21:00:13,460",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Witness', 'year': 1985, 'path': '/data/media/movies/Witness (1985)', 'size_on_disk_bytes': 11731277409, 'size_on_disk_gb': 11.73}"
+}
+{
+	"time": "2021-12-27 21:00:13,671",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Resident Evil Apocalypse', 'year': 2004, 'path': '/data/media/movies/Resident Evil Apocalypse (2004)', 'size_on_disk_bytes': 10871384643, 'size_on_disk_gb': 10.87}"
+}
+{
+	"time": "2021-12-27 21:00:13,743",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Resident Evil Extinction', 'year': 2007, 'path': '/data/media/movies/Resident Evil Extinction (2007)', 'size_on_disk_bytes': 9931586698, 'size_on_disk_gb': 9.93}"
+}
+{
+	"time": "2021-12-27 21:00:13,828",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Resident Evil Retribution', 'year': 2012, 'path': '/data/media/movies/Resident Evil Retribution (2012)', 'size_on_disk_bytes': 7489834129, 'size_on_disk_gb': 7.49}"
+}
+{
+	"time": "2021-12-27 21:00:13,911",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Resident Evil The Final Chapter', 'year': 2016, 'path': '/data/media/movies/Resident Evil The Final Chapter (2016)', 'size_on_disk_bytes': 14076212142, 'size_on_disk_gb': 14.08}"
+}
+{
+	"time": "2021-12-27 21:00:14,321",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Resident Evil', 'year': 2002, 'path': '/data/media/movies/Resident Evil (2002)', 'size_on_disk_bytes': 8533150113, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:00:14,536",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Resident Evil Afterlife', 'year': 2010, 'path': '/data/media/movies/Resident Evil Afterlife (2010)', 'size_on_disk_bytes': 7017330554, 'size_on_disk_gb': 7.02}"
+}
+{
+	"time": "2021-12-27 21:00:14,767",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Oceans Eight', 'year': 2018, 'path': "/data/media/movies/Ocean's 8 (2018)", 'size_on_disk_bytes': 8212316076, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:00:14,998",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hotel Rwanda', 'year': 2004, 'path': '/data/media/movies/Hotel Rwanda (2004)', 'size_on_disk_bytes': 11509441881, 'size_on_disk_gb': 11.51}"
+}
+{
+	"time": "2021-12-27 21:00:15,118",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Raise Your Voice', 'year': 2004, 'path': '/data/media/movies/Raise Your Voice (2004)', 'size_on_disk_bytes': 10817801693, 'size_on_disk_gb': 10.82}"
+}
+{
+	"time": "2021-12-27 21:00:15,408",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Stuart Little 2', 'year': 2002, 'path': '/data/media/movies/Stuart Little 2 (2002)', 'size_on_disk_bytes': 5850968514, 'size_on_disk_gb': 5.85}"
+}
+{
+	"time": "2021-12-27 21:00:15,536",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Godard Mon Amour', 'year': 2017, 'path': '/data/media/movies/Godard Mon Amour (2017)', 'size_on_disk_bytes': 8205551493, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:00:15,689",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Solo A Star Wars Story', 'year': 2018, 'path': '/data/media/movies/Solo A Star Wars Story (2018)', 'size_on_disk_bytes': 2475700426, 'size_on_disk_gb': 2.48}"
+}
+{
+	"time": "2021-12-27 21:00:15,870",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Uncle Drew', 'year': 2018, 'path': '/data/media/movies/Uncle Drew (2018)', 'size_on_disk_bytes': 8214226996, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:00:16,078",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Lady in the Van', 'year': 2015, 'path': '/data/media/movies/The Lady in the Van (2015)', 'size_on_disk_bytes': 11141815508, 'size_on_disk_gb': 11.14}"
+}
+{
+	"time": "2021-12-27 21:00:22,021",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Velvet Goldmine', 'year': 1998, 'path': '/data/media/movies/Velvet Goldmine (1998)', 'size_on_disk_bytes': 10557793922, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 21:00:22,125",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Sicario Day of the Soldado', 'year': 2018, 'path': '/data/media/movies/Sicario Day of the Soldado (2018)', 'size_on_disk_bytes': 10561761218, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 21:00:22,164",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Finding Your Feet', 'year': 2017, 'path': '/data/media/movies/Finding Your Feet (2017)', 'size_on_disk_bytes': 12359651839, 'size_on_disk_gb': 12.36}"
+}
+{
+	"time": "2021-12-27 21:00:22,311",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hell or High Water', 'year': 2016, 'path': '/data/media/movies/Hell or High Water (2016)', 'size_on_disk_bytes': 13047643466, 'size_on_disk_gb': 13.05}"
+}
+{
+	"time": "2021-12-27 21:00:22,384",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Elf', 'year': 2003, 'path': '/data/media/movies/Elf (2003)', 'size_on_disk_bytes': 8731808641, 'size_on_disk_gb': 8.73}"
+}
+{
+	"time": "2021-12-27 21:00:22,476",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Danny the Champion of the World', 'year': 1989, 'path': '/data/media/movies/Danny the Champion of the World (1989)', 'size_on_disk_bytes': 625901117, 'size_on_disk_gb': 0.63}"
+}
+{
+	"time": "2021-12-27 21:00:22,627",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'AntMan and the Wasp', 'year': 2018, 'path': '/data/media/movies/Ant-Man and the Wasp (2018)', 'size_on_disk_bytes': 9390624429, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:00:22,821",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Zodiac', 'year': 2007, 'path': '/data/media/movies/Zodiac (2007)', 'size_on_disk_bytes': 17045105872, 'size_on_disk_gb': 17.05}"
+}
+{
+	"time": "2021-12-27 21:00:23,022",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Bone Tomahawk', 'year': 2015, 'path': '/data/media/movies/Bone Tomahawk (2015)', 'size_on_disk_bytes': 11735826813, 'size_on_disk_gb': 11.74}"
+}
+{
+	"time": "2021-12-27 21:00:23,355",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Assassins Creed', 'year': 2016, 'path': "/data/media/movies/Assassin's Creed (2016)", 'size_on_disk_bytes': 12722790081, 'size_on_disk_gb': 12.72}"
+}
+{
+	"time": "2021-12-27 21:00:23,498",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Mamma Mia Here We Go Again', 'year': 2018, 'path': '/data/media/movies/Mamma Mia! Here We Go Again (2018)', 'size_on_disk_bytes': 8530093979, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:00:23,628",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Spy Who Dumped Me', 'year': 2018, 'path': '/data/media/movies/The Spy Who Dumped Me (2018)', 'size_on_disk_bytes': 8213619243, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:00:23,833",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Invisible Man Returns', 'year': 1940, 'path': '/data/media/movies/The Invisible Man Returns (1940)', 'size_on_disk_bytes': 7035590959, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:00:24,020",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Pope of Greenwich Village', 'year': 1984, 'path': '/data/media/movies/The Pope of Greenwich Village (1984)', 'size_on_disk_bytes': 8207912957, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:00:29,277",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Darkest Minds', 'year': 2018, 'path': '/data/media/movies/The Darkest Minds (2018)', 'size_on_disk_bytes': 8216577935, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 21:00:29,346",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Invisible Mans Revenge', 'year': 1944, 'path': "/data/media/movies/The Invisible Man's Revenge (1944)", 'size_on_disk_bytes': 5866193025, 'size_on_disk_gb': 5.87}"
+}
+{
+	"time": "2021-12-27 21:00:29,487",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Gifted', 'year': 2017, 'path': '/data/media/movies/Gifted (2017)', 'size_on_disk_bytes': 8214700450, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:00:29,589",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Meg', 'year': 2018, 'path': '/data/media/movies/The Meg (2018)', 'size_on_disk_bytes': 11004113729, 'size_on_disk_gb': 11.0}"
+}
+{
+	"time": "2021-12-27 21:00:29,731",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Papillon', 'year': 2017, 'path': '/data/media/movies/Papillon (2018)', 'size_on_disk_bytes': 10560138557, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 21:00:29,902",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Crazy Rich Asians', 'year': 2018, 'path': '/data/media/movies/Crazy Rich Asians (2018)', 'size_on_disk_bytes': 14231224168, 'size_on_disk_gb': 14.23}"
+}
+{
+	"time": "2021-12-27 21:00:30,057",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Equalizer 2', 'year': 2018, 'path': '/data/media/movies/The Equalizer 2 (2018)', 'size_on_disk_bytes': 11454778739, 'size_on_disk_gb': 11.45}"
+}
+{
+	"time": "2021-12-27 21:00:30,244",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Mile 22', 'year': 2018, 'path': '/data/media/movies/Mile 22 (2018)', 'size_on_disk_bytes': 7038480880, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:00:30,310",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Mission Impossible  Fallout', 'year': 2018, 'path': '/data/media/movies/Mission Impossible - Fallout (2018)', 'size_on_disk_bytes': 11419392545, 'size_on_disk_gb': 11.42}"
+}
+{
+	"time": "2021-12-27 21:00:30,461",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Searching', 'year': 2018, 'path': '/data/media/movies/Searching (2018)', 'size_on_disk_bytes': 8215174807, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 21:00:30,623",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Happytime Murders', 'year': 2018, 'path': '/data/media/movies/The Happytime Murders (2018)', 'size_on_disk_bytes': 11914871976, 'size_on_disk_gb': 11.91}"
+}
+{
+	"time": "2021-12-27 21:00:30,767",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Rules of Engagement', 'year': 2000, 'path': '/data/media/movies/Rules of Engagement (2000)', 'size_on_disk_bytes': 15034589713, 'size_on_disk_gb': 15.03}"
+}
+{
+	"time": "2021-12-27 21:00:30,888",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Spotlight', 'year': 2015, 'path': '/data/media/movies/Spotlight (2015)', 'size_on_disk_bytes': 12004838686, 'size_on_disk_gb': 12.0}"
+}
+{
+	"time": "2021-12-27 21:00:31,061",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Miracle on 34th Street', 'year': 1947, 'path': '/data/media/movies/Miracle on 34th Street (1947)', 'size_on_disk_bytes': 8530840361, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:00:31,329",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Night of the Comet', 'year': 1984, 'path': '/data/media/movies/Night of the Comet (1984)', 'size_on_disk_bytes': 7041510405, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:00:31,426",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Michael Clayton', 'year': 2007, 'path': '/data/media/movies/Michael Clayton (2007)', 'size_on_disk_bytes': 10565508874, 'size_on_disk_gb': 10.57}"
+}
+{
+	"time": "2021-12-27 21:00:31,741",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Nun', 'year': 2018, 'path': '/data/media/movies/The Nun (2018)', 'size_on_disk_bytes': 8212462258, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:00:32,058",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Meaning of Life', 'year': 1983, 'path': '/data/media/movies/The Meaning of Life (1983)', 'size_on_disk_bytes': 11737974337, 'size_on_disk_gb': 11.74}"
+}
+{
+	"time": "2021-12-27 21:00:32,344",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Operation Finale', 'year': 2018, 'path': '/data/media/movies/Operation Finale (2018)', 'size_on_disk_bytes': 5697032666, 'size_on_disk_gb': 5.7}"
+}
+{
+	"time": "2021-12-27 21:00:32,673",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Smallfoot', 'year': 2018, 'path': '/data/media/movies/Smallfoot (2018)', 'size_on_disk_bytes': 5867157863, 'size_on_disk_gb': 5.87}"
+}
+{
+	"time": "2021-12-27 21:00:40,228",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Gauntlet', 'year': 1977, 'path': '/data/media/movies/The Gauntlet (1977)', 'size_on_disk_bytes': 8726224158, 'size_on_disk_gb': 8.73}"
+}
+{
+	"time": "2021-12-27 21:00:40,307",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Tightrope', 'year': 1984, 'path': '/data/media/movies/Tightrope (1984)', 'size_on_disk_bytes': 9970827047, 'size_on_disk_gb': 9.97}"
+}
+{
+	"time": "2021-12-27 21:00:40,447",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Venom', 'year': 2018, 'path': '/data/media/movies/Venom (2018)', 'size_on_disk_bytes': 10333855475, 'size_on_disk_gb': 10.33}"
+}
+{
+	"time": "2021-12-27 21:00:40,588",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Festival', 'year': 2018, 'path': '/data/media/movies/The Festival (2018)', 'size_on_disk_bytes': 8208282732, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:00:40,777",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'My Fair Lady', 'year': 1964, 'path': '/data/media/movies/My Fair Lady (1964)', 'size_on_disk_bytes': 16430607371, 'size_on_disk_gb': 16.43}"
+}
+{
+	"time": "2021-12-27 21:00:40,896",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Legend', 'year': 2015, 'path': '/data/media/movies/Legend (2015)', 'size_on_disk_bytes': 9295951644, 'size_on_disk_gb': 9.3}"
+}
+{
+	"time": "2021-12-27 21:00:41,213",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Legend', 'year': 2015, 'path': None, 'size_on_disk_bytes': 0, 'size_on_disk_gb': 0.0}"
+}
+{
+	"time": "2021-12-27 21:00:41,243",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Internship', 'year': 2013, 'path': '/data/media/movies/The Internship (2013)', 'size_on_disk_bytes': 9387312765, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:00:41,293",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The House with a Clock in Its Walls', 'year': 2018, 'path': '/data/media/movies/The House with a Clock in Its Walls (2018)', 'size_on_disk_bytes': 8216317837, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 21:00:41,415",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Life Itself', 'year': 2018, 'path': '/data/media/movies/Life Itself (2018)', 'size_on_disk_bytes': 8214311588, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:00:41,536",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Sunshine on Leith', 'year': 2013, 'path': '/data/media/movies/Sunshine on Leith (2013)', 'size_on_disk_bytes': 10261444457, 'size_on_disk_gb': 10.26}"
+}
+{
+	"time": "2021-12-27 21:00:41,621",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'My Friend Dahmer', 'year': 2017, 'path': '/data/media/movies/My Friend Dahmer (2017)', 'size_on_disk_bytes': 8525551693, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:00:41,729",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Upgrade', 'year': 2018, 'path': '/data/media/movies/Upgrade (2018)', 'size_on_disk_bytes': 12940145153, 'size_on_disk_gb': 12.94}"
+}
+{
+	"time": "2021-12-27 21:00:41,920",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Leave No Trace', 'year': 2018, 'path': '/data/media/movies/Leave No Trace (2018)', 'size_on_disk_bytes': 14108179783, 'size_on_disk_gb': 14.11}"
+}
+{
+	"time": "2021-12-27 21:00:42,083",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'First Reformed', 'year': 2017, 'path': '/data/media/movies/First Reformed (2018)', 'size_on_disk_bytes': 10885804509, 'size_on_disk_gb': 10.89}"
+}
+{
+	"time": "2021-12-27 21:00:42,173",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Sherlock Holmes Faces Death', 'year': 1943, 'path': '/data/media/movies/Sherlock Holmes Faces Death (1943)', 'size_on_disk_bytes': 7042794362, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:00:42,319",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Adventures of Sherlock Holmes', 'year': 1939, 'path': '/data/media/movies/The Adventures of Sherlock Holmes (1939)', 'size_on_disk_bytes': 7043885328, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:00:42,481",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Arthur Christmas', 'year': 2011, 'path': '/data/media/movies/Arthur Christmas (2011)', 'size_on_disk_bytes': 5863972925, 'size_on_disk_gb': 5.86}"
+}
+{
+	"time": "2021-12-27 21:00:42,709",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Patriot Games', 'year': 1992, 'path': '/data/media/movies/Patriot Games (1992)', 'size_on_disk_bytes': 11698600984, 'size_on_disk_gb': 11.7}"
+}
+{
+	"time": "2021-12-27 21:00:48,364",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Nuts in May', 'year': 1976, 'path': '/data/media/movies/Nuts in May (1976)', 'size_on_disk_bytes': 1474178476, 'size_on_disk_gb': 1.47}"
+}
+{
+	"time": "2021-12-27 21:00:48,434",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Greatest Showman', 'year': 2017, 'path': '/data/media/movies/The Greatest Showman (2017)', 'size_on_disk_bytes': 14449971906, 'size_on_disk_gb': 14.45}"
+}
+{
+	"time": "2021-12-27 21:00:48,476",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hell Fest', 'year': 2018, 'path': '/data/media/movies/Hell Fest (2018)', 'size_on_disk_bytes': 7038260147, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:00:48,648",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'They Shall Not Grow Old', 'year': 2018, 'path': '/data/media/movies/They Shall Not Grow Old (2018)', 'size_on_disk_bytes': 7706825758, 'size_on_disk_gb': 7.71}"
+}
+{
+	"time": "2021-12-27 21:00:48,835",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Bees Make Honey', 'year': 2018, 'path': '/data/media/movies/Bees Make Honey (2018)', 'size_on_disk_bytes': 3325744578, 'size_on_disk_gb': 3.33}"
+}
+{
+	"time": "2021-12-27 21:00:48,907",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Elizabeth Harvest', 'year': 2018, 'path': '/data/media/movies/Elizabeth Harvest (2018)', 'size_on_disk_bytes': 8527193621, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:00:49,069",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Summer of 84', 'year': 2018, 'path': '/data/media/movies/Summer of 84 (2018)', 'size_on_disk_bytes': 14261533228, 'size_on_disk_gb': 14.26}"
+}
+{
+	"time": "2021-12-27 21:00:49,159",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Domestics', 'year': 2018, 'path': '/data/media/movies/The Domestics (2018)', 'size_on_disk_bytes': 9837028411, 'size_on_disk_gb': 9.84}"
+}
+{
+	"time": "2021-12-27 21:00:49,418",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Goosebumps 2 Haunted Halloween', 'year': 2018, 'path': '/data/media/movies/Goosebumps 2 Haunted Halloween (2018)', 'size_on_disk_bytes': 7037145645, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:00:49,529",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Secrets  Lies', 'year': 1996, 'path': '/data/media/movies/Secrets & Lies (1996)', 'size_on_disk_bytes': 11203515829, 'size_on_disk_gb': 11.2}"
+}
+{
+	"time": "2021-12-27 21:00:49,747",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'First Man', 'year': 2018, 'path': '/data/media/movies/First Man (2018)', 'size_on_disk_bytes': 10546332521, 'size_on_disk_gb': 10.55}"
+}
+{
+	"time": "2021-12-27 21:00:49,900",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Hate U Give', 'year': 2018, 'path': '/data/media/movies/The Hate U Give (2018)', 'size_on_disk_bytes': 10556480090, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 21:00:50,079",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'True Grit', 'year': 2010, 'path': '/data/media/movies/True Grit (2010)', 'size_on_disk_bytes': 12204954590, 'size_on_disk_gb': 12.2}"
+}
+{
+	"time": "2021-12-27 21:00:53,474",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Definitely Maybe', 'year': 2008, 'path': '/data/media/movies/Definitely, Maybe (2008)', 'size_on_disk_bytes': 11183626852, 'size_on_disk_gb': 11.18}"
+}
+{
+	"time": "2021-12-27 21:00:53,686",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Pope Francis A Man of His Word', 'year': 2018, 'path': '/data/media/movies/Pope Francis A Man of His Word (2018)', 'size_on_disk_bytes': 7036231836, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:00:53,882",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Nutcracker and the Four Realms', 'year': 2018, 'path': '/data/media/movies/The Nutcracker and the Four Realms (2018)', 'size_on_disk_bytes': 6629201711, 'size_on_disk_gb': 6.63}"
+}
+{
+	"time": "2021-12-27 21:00:53,949",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hunter Killer', 'year': 2018, 'path': '/data/media/movies/Hunter Killer (2018)', 'size_on_disk_bytes': 8528343608, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:00:54,015",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Before I Fall', 'year': 2017, 'path': '/data/media/movies/Before I Fall (2017)', 'size_on_disk_bytes': 13099440276, 'size_on_disk_gb': 13.1}"
+}
+{
+	"time": "2021-12-27 21:00:54,096",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Room', 'year': 2015, 'path': '/data/media/movies/Room (2015)', 'size_on_disk_bytes': 11187294917, 'size_on_disk_gb': 11.19}"
+}
+{
+	"time": "2021-12-27 21:00:54,340",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Star Is Born', 'year': 2018, 'path': '/data/media/movies/A Star Is Born (2018)', 'size_on_disk_bytes': 13119658980, 'size_on_disk_gb': 13.12}"
+}
+{
+	"time": "2021-12-27 21:00:54,417",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Andhadhun', 'year': 2018, 'path': '/data/media/movies/Andhadhun (2018)', 'size_on_disk_bytes': 4173014658, 'size_on_disk_gb': 4.17}"
+}
+{
+	"time": "2021-12-27 21:00:54,608",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Bring It On', 'year': 2000, 'path': '/data/media/movies/Bring It On (2000)', 'size_on_disk_bytes': 8216434443, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 21:00:54,766",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Grinch', 'year': 2018, 'path': '/data/media/movies/The Grinch (2018)', 'size_on_disk_bytes': 4693909999, 'size_on_disk_gb': 4.69}"
+}
+{
+	"time": "2021-12-27 21:00:54,860",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Girl in the Spiders Web', 'year': 2018, 'path': "/data/media/movies/The Girl in the Spider's Web (2018)", 'size_on_disk_bytes': 9390661240, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:00:55,017",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Stuck in Love', 'year': 2013, 'path': '/data/media/movies/Stuck in Love (2012)', 'size_on_disk_bytes': 11075847943, 'size_on_disk_gb': 11.08}"
+}
+{
+	"time": "2021-12-27 21:00:55,219",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Last Sharknado Its About Time', 'year': 2018, 'path': "/data/media/movies/The Last Sharknado It's About Time (2018)", 'size_on_disk_bytes': 7033550757, 'size_on_disk_gb': 7.03}"
+}
+{
+	"time": "2021-12-27 21:00:55,396",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Private War', 'year': 2018, 'path': '/data/media/movies/A Private War (2018)', 'size_on_disk_bytes': 8527403638, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:00:55,550",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Harvey', 'year': 1950, 'path': '/data/media/movies/Harvey (1950)', 'size_on_disk_bytes': 1779713864, 'size_on_disk_gb': 1.78}"
+}
+{
+	"time": "2021-12-27 21:00:55,776",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Charlie St Cloud', 'year': 2010, 'path': '/data/media/movies/Charlie St. Cloud (2010)', 'size_on_disk_bytes': 12395085631, 'size_on_disk_gb': 12.4}"
+}
+{
+	"time": "2021-12-27 21:00:55,980",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': '13 Going on 30', 'year': 2004, 'path': '/data/media/movies/13 Going on 30 (2004)', 'size_on_disk_bytes': 8532497980, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:01:00,661",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Nobodys Fool', 'year': 2018, 'path': "/data/media/movies/Nobody's Fool (2018)", 'size_on_disk_bytes': 9384357202, 'size_on_disk_gb': 9.38}"
+}
+{
+	"time": "2021-12-27 21:01:00,721",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Mortal Engines', 'year': 2018, 'path': '/data/media/movies/Mortal Engines (2018)', 'size_on_disk_bytes': 2198476730, 'size_on_disk_gb': 2.2}"
+}
+{
+	"time": "2021-12-27 21:01:00,981",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Overlord', 'year': 2018, 'path': '/data/media/movies/Overlord (2018)', 'size_on_disk_bytes': 8526586423, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:01:01,139",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Robin Hood', 'year': 2018, 'path': '/data/media/movies/Robin Hood (2018)', 'size_on_disk_bytes': 8529620390, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:01:01,254",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Car', 'year': 1977, 'path': '/data/media/movies/The Car (1977)', 'size_on_disk_bytes': 9387860141, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:01,290",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Knocked Up', 'year': 2007, 'path': '/data/media/movies/Knocked Up (2007)', 'size_on_disk_bytes': 14015933385, 'size_on_disk_gb': 14.02}"
+}
+{
+	"time": "2021-12-27 21:01:01,537",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The FiveYear Engagement', 'year': 2012, 'path': '/data/media/movies/The Five-Year Engagement (2012)', 'size_on_disk_bytes': 9392898006, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:01,624",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Possession of Hannah Grace', 'year': 2018, 'path': '/data/media/movies/The Possession of Hannah Grace (2018)', 'size_on_disk_bytes': 7041798578, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:01:01,690",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ralph Breaks the Internet', 'year': 2018, 'path': '/data/media/movies/Ralph Breaks the Internet (2018)', 'size_on_disk_bytes': 5868394339, 'size_on_disk_gb': 5.87}"
+}
+{
+	"time": "2021-12-27 21:01:01,863",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Serenity', 'year': 2019, 'path': '/data/media/movies/Serenity (2019)', 'size_on_disk_bytes': 2168492162, 'size_on_disk_gb': 2.17}"
+}
+{
+	"time": "2021-12-27 21:01:01,928",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Creed II', 'year': 2018, 'path': '/data/media/movies/Creed II (2018)', 'size_on_disk_bytes': 14417758876, 'size_on_disk_gb': 14.42}"
+}
+{
+	"time": "2021-12-27 21:01:02,036",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Look Away', 'year': 2018, 'path': '/data/media/movies/Look Away (2019)', 'size_on_disk_bytes': 8526990477, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:01:02,204",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Adrift', 'year': 2018, 'path': '/data/media/movies/Adrift (2018)', 'size_on_disk_bytes': 12804745534, 'size_on_disk_gb': 12.8}"
+}
+{
+	"time": "2021-12-27 21:01:02,283",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Fantastic Beasts The Crimes of Grindelwald', 'year': 2018, 'path': '/data/media/movies/Fantastic Beasts The Crimes of Grindelwald (2018)', 'size_on_disk_bytes': 10348592014, 'size_on_disk_gb': 10.35}"
+}
+{
+	"time": "2021-12-27 21:01:04,727",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Before the Flood', 'year': 2016, 'path': '/data/media/movies/Before the Flood (2016)', 'size_on_disk_bytes': 8005914502, 'size_on_disk_gb': 8.01}"
+}
+{
+	"time": "2021-12-27 21:01:04,817",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Instant Family', 'year': 2018, 'path': '/data/media/movies/Instant Family (2018)', 'size_on_disk_bytes': 11813037735, 'size_on_disk_gb': 11.81}"
+}
+{
+	"time": "2021-12-27 21:01:04,962",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Dogs Purpose', 'year': 2017, 'path': "/data/media/movies/A Dog's Purpose (2017)", 'size_on_disk_bytes': 13646327832, 'size_on_disk_gb': 13.65}"
+}
+{
+	"time": "2021-12-27 21:01:05,110",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Mary Poppins Returns', 'year': 2018, 'path': '/data/media/movies/Mary Poppins Returns (2018)', 'size_on_disk_bytes': 10565725739, 'size_on_disk_gb': 10.57}"
+}
+{
+	"time": "2021-12-27 21:01:05,247",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Havoc', 'year': 2005, 'path': '/data/media/movies/Havoc (2005)', 'size_on_disk_bytes': 7956188120, 'size_on_disk_gb': 7.96}"
+}
+{
+	"time": "2021-12-27 21:01:05,382",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Replicas', 'year': 2018, 'path': '/data/media/movies/Replicas (2018)', 'size_on_disk_bytes': 10656647544, 'size_on_disk_gb': 10.66}"
+}
+{
+	"time": "2021-12-27 21:01:05,556",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Aquaman', 'year': 2018, 'path': '/data/media/movies/Aquaman (2018)', 'size_on_disk_bytes': 11737380656, 'size_on_disk_gb': 11.74}"
+}
+{
+	"time": "2021-12-27 21:01:05,868",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Intern', 'year': 2015, 'path': '/data/media/movies/The Intern (2015)', 'size_on_disk_bytes': 15799187824, 'size_on_disk_gb': 15.8}"
+}
+{
+	"time": "2021-12-27 21:01:05,927",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Second Act', 'year': 2018, 'path': '/data/media/movies/Second Act (2018)', 'size_on_disk_bytes': 8525197260, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:01:06,002",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Devils Candy', 'year': 2017, 'path': "/data/media/movies/The Devil's Candy (2017)", 'size_on_disk_bytes': 6881843547, 'size_on_disk_gb': 6.88}"
+}
+{
+	"time": "2021-12-27 21:01:06,176",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'KickAss', 'year': 2010, 'path': '/data/media/movies/Kick-Ass (2010)', 'size_on_disk_bytes': 14546350303, 'size_on_disk_gb': 14.55}"
+}
+{
+	"time": "2021-12-27 21:01:06,422",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'In a Relationship', 'year': 2018, 'path': '/data/media/movies/In a Relationship (2018)', 'size_on_disk_bytes': 2731227821, 'size_on_disk_gb': 2.73}"
+}
+{
+	"time": "2021-12-27 21:01:06,506",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Detainment', 'year': 2018, 'path': '/data/media/movies/Detainment (2018)', 'size_on_disk_bytes': 781782768, 'size_on_disk_gb': 0.78}"
+}
+{
+	"time": "2021-12-27 21:01:06,645",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Mule', 'year': 2018, 'path': '/data/media/movies/The Mule (2018)', 'size_on_disk_bytes': 9386743955, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:06,849",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Informers', 'year': 2008, 'path': '/data/media/movies/The Informers (2008)', 'size_on_disk_bytes': 8214560055, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:07,039",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Curious Case of Benjamin Button', 'year': 2008, 'path': '/data/media/movies/The Curious Case of Benjamin Button (2008)', 'size_on_disk_bytes': 14059336179, 'size_on_disk_gb': 14.06}"
+}
+{
+	"time": "2021-12-27 21:01:07,295",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Miracles from Heaven', 'year': 2016, 'path': '/data/media/movies/Miracles from Heaven (2016)', 'size_on_disk_bytes': 12986600787, 'size_on_disk_gb': 12.99}"
+}
+{
+	"time": "2021-12-27 21:01:07,473",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Dogs Way Home', 'year': 2019, 'path': "/data/media/movies/A Dog's Way Home (2019)", 'size_on_disk_bytes': 11089282410, 'size_on_disk_gb': 11.09}"
+}
+{
+	"time": "2021-12-27 21:01:07,713",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Welcome to Marwen', 'year': 2018, 'path': '/data/media/movies/Welcome to Marwen (2018)', 'size_on_disk_bytes': 10519469958, 'size_on_disk_gb': 10.52}"
+}
+{
+	"time": "2021-12-27 21:01:07,999",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Holmes  Watson', 'year': 2018, 'path': '/data/media/movies/Holmes & Watson (2018)', 'size_on_disk_bytes': 9387505397, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:12,955",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'On the Basis of Sex', 'year': 2018, 'path': '/data/media/movies/On the Basis of Sex (2018)', 'size_on_disk_bytes': 10560139557, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 21:01:13,335",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Friday the 13th', 'year': 1980, 'path': None, 'size_on_disk_bytes': 0, 'size_on_disk_gb': 0.0}"
+}
+{
+	"time": "2021-12-27 21:01:13,371",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Kid Who Would Be King', 'year': 2019, 'path': '/data/media/movies/The Kid Who Would Be King (2019)', 'size_on_disk_bytes': 9397620444, 'size_on_disk_gb': 9.4}"
+}
+{
+	"time": "2021-12-27 21:01:13,485",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'How to Train Your Dragon The Hidden World', 'year': 2019, 'path': '/data/media/movies/How to Train Your Dragon The Hidden World (2019)', 'size_on_disk_bytes': 10958413236, 'size_on_disk_gb': 10.96}"
+}
+{
+	"time": "2021-12-27 21:01:13,572",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Freddy Got Fingered', 'year': 2001, 'path': '/data/media/movies/Freddy Got Fingered (2001)', 'size_on_disk_bytes': 5615845442, 'size_on_disk_gb': 5.62}"
+}
+{
+	"time": "2021-12-27 21:01:13,689",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Escape Room', 'year': 2019, 'path': '/data/media/movies/Escape Room (2019)', 'size_on_disk_bytes': 8214761358, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:13,807",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Dragon Ball Super Broly', 'year': 2018, 'path': '/data/media/movies/Dragon Ball Super Broly (2018)', 'size_on_disk_bytes': 5867890119, 'size_on_disk_gb': 5.87}"
+}
+{
+	"time": "2021-12-27 21:01:13,863",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Tucker and Dale vs Evil', 'year': 2010, 'path': '/data/media/movies/Tucker and Dale vs Evil (2010)', 'size_on_disk_bytes': 8526315750, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:01:13,974",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Miss Bala', 'year': 2019, 'path': '/data/media/movies/Miss Bala (2019)', 'size_on_disk_bytes': 11452728747, 'size_on_disk_gb': 11.45}"
+}
+{
+	"time": "2021-12-27 21:01:14,158",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Lego Movie 2 The Second Part', 'year': 2019, 'path': '/data/media/movies/The Lego Movie 2 The Second Part (2019)', 'size_on_disk_bytes': 11007004648, 'size_on_disk_gb': 11.01}"
+}
+{
+	"time": "2021-12-27 21:01:14,226",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Burrowers', 'year': 2008, 'path': '/data/media/movies/The Burrowers (2008)', 'size_on_disk_bytes': 3156002553, 'size_on_disk_gb': 3.16}"
+}
+{
+	"time": "2021-12-27 21:01:14,434",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Defendor', 'year': 2009, 'path': '/data/media/movies/Defendor (2009)', 'size_on_disk_bytes': 8543761438, 'size_on_disk_gb': 8.54}"
+}
+{
+	"time": "2021-12-27 21:01:14,568",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Other Side', 'year': 2015, 'path': '/data/media/movies/The Other Side (2015)', 'size_on_disk_bytes': 1746849057, 'size_on_disk_gb': 1.75}"
+}
+{
+	"time": "2021-12-27 21:01:14,698",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'What Men Want', 'year': 2019, 'path': '/data/media/movies/What Men Want (2019)', 'size_on_disk_bytes': 10933364318, 'size_on_disk_gb': 10.93}"
+}
+{
+	"time": "2021-12-27 21:01:14,777",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Behind the Curve', 'year': 2018, 'path': '/data/media/movies/Behind the Curve (2018)', 'size_on_disk_bytes': 4238947074, 'size_on_disk_gb': 4.24}"
+}
+{
+	"time": "2021-12-27 21:01:14,891",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Friday Night', 'year': 2002, 'path': '/data/media/movies/Friday Night (2002)', 'size_on_disk_bytes': 1820602368, 'size_on_disk_gb': 1.82}"
+}
+{
+	"time": "2021-12-27 21:01:15,105",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Apollo 11', 'year': 2019, 'path': '/data/media/movies/Apollo 11 (2019)', 'size_on_disk_bytes': 8212281236, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:15,523",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Fighting with My Family', 'year': 2019, 'path': '/data/media/movies/Fighting with My Family (2019)', 'size_on_disk_bytes': 8206360390, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:15,785",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Cold Pursuit', 'year': 2019, 'path': '/data/media/movies/Cold Pursuit (2019)', 'size_on_disk_bytes': 8214556016, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:15,942",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Isnt It Romantic', 'year': 2019, 'path': "/data/media/movies/Isn't It Romantic (2019)", 'size_on_disk_bytes': 7039249807, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:01:20,093",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Possession Experiment', 'year': 2016, 'path': '/data/media/movies/The Possession Experiment (2016)', 'size_on_disk_bytes': 626774876, 'size_on_disk_gb': 0.63}"
+}
+{
+	"time": "2021-12-27 21:01:20,254",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Prodigy', 'year': 2019, 'path': '/data/media/movies/The Prodigy (2019)', 'size_on_disk_bytes': 9027715756, 'size_on_disk_gb': 9.03}"
+}
+{
+	"time": "2021-12-27 21:01:20,355",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Purple Rain', 'year': 1984, 'path': '/data/media/movies/Purple Rain (1984)', 'size_on_disk_bytes': 9389939792, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:20,477",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Run the Race', 'year': 2019, 'path': '/data/media/movies/Run the Race (2019)', 'size_on_disk_bytes': 4269580043, 'size_on_disk_gb': 4.27}"
+}
+{
+	"time": "2021-12-27 21:01:20,605",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hot Summer Nights', 'year': 2018, 'path': '/data/media/movies/Hot Summer Nights (2018)', 'size_on_disk_bytes': 10518590450, 'size_on_disk_gb': 10.52}"
+}
+{
+	"time": "2021-12-27 21:01:20,651",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Greta', 'year': 2019, 'path': '/data/media/movies/Greta (2018)', 'size_on_disk_bytes': 8216715150, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 21:01:20,739",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Isabelle', 'year': 2019, 'path': '/data/media/movies/The Wanting (2019)', 'size_on_disk_bytes': 3088106531, 'size_on_disk_gb': 3.09}"
+}
+{
+	"time": "2021-12-27 21:01:20,919",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Captain Marvel', 'year': 2019, 'path': '/data/media/movies/Captain Marvel (2019)', 'size_on_disk_bytes': 9389896396, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:21,129",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Captive State', 'year': 2019, 'path': '/data/media/movies/Captive State (2019)', 'size_on_disk_bytes': 8215929817, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 21:01:21,219",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Gloria Bell', 'year': 2019, 'path': '/data/media/movies/Gloria Bell (2018)', 'size_on_disk_bytes': 8214583855, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:21,392",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Madea Family Funeral', 'year': 2019, 'path': '/data/media/movies/A Madea Family Funeral (2019)', 'size_on_disk_bytes': 9389100371, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:21,528",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Final Wish', 'year': 2019, 'path': '/data/media/movies/The Final Wish (2019)', 'size_on_disk_bytes': 9239827620, 'size_on_disk_gb': 9.24}"
+}
+{
+	"time": "2021-12-27 21:01:21,674",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Pledge', 'year': 2019, 'path': '/data/media/movies/Pledge (2019)', 'size_on_disk_bytes': 8909359522, 'size_on_disk_gb': 8.91}"
+}
+{
+	"time": "2021-12-27 21:01:21,802",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Golem', 'year': 2018, 'path': '/data/media/movies/The Golem (2019)', 'size_on_disk_bytes': 1942623727, 'size_on_disk_gb': 1.94}"
+}
+{
+	"time": "2021-12-27 21:01:21,891",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Five Feet Apart', 'year': 2019, 'path': '/data/media/movies/Five Feet Apart (2019)', 'size_on_disk_bytes': 9387285466, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:22,133",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Sex Tape', 'year': 2014, 'path': '/data/media/movies/Sex Tape (2014)', 'size_on_disk_bytes': 8196998473, 'size_on_disk_gb': 8.2}"
+}
+{
+	"time": "2021-12-27 21:01:22,390",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Murder Most Foul', 'year': 1964, 'path': '/data/media/movies/Murder Most Foul (1964)', 'size_on_disk_bytes': 10303836097, 'size_on_disk_gb': 10.3}"
+}
+{
+	"time": "2021-12-27 21:01:27,258",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hotel Mumbai', 'year': 2019, 'path': '/data/media/movies/Hotel Mumbai (2019)', 'size_on_disk_bytes': 11735457337, 'size_on_disk_gb': 11.74}"
+}
+{
+	"time": "2021-12-27 21:01:27,358",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'They Live', 'year': 1988, 'path': '/data/media/movies/They Live (1988)', 'size_on_disk_bytes': 11724279213, 'size_on_disk_gb': 11.72}"
+}
+{
+	"time": "2021-12-27 21:01:27,425",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Beach Bum', 'year': 2019, 'path': '/data/media/movies/The Beach Bum (2019)', 'size_on_disk_bytes': 8215569552, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 21:01:27,484",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Dumbo', 'year': 2019, 'path': '/data/media/movies/Dumbo (2019)', 'size_on_disk_bytes': 13362881461, 'size_on_disk_gb': 13.36}"
+}
+{
+	"time": "2021-12-27 21:01:27,616",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Wonder Park', 'year': 2019, 'path': '/data/media/movies/Wonder Park (2019)', 'size_on_disk_bytes': 3117554326, 'size_on_disk_gb': 3.12}"
+}
+{
+	"time": "2021-12-27 21:01:27,688",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ripleys Game', 'year': 2002, 'path': "/data/media/movies/Ripley's Game (2002)", 'size_on_disk_bytes': 5881498773, 'size_on_disk_gb': 5.88}"
+}
+{
+	"time": "2021-12-27 21:01:27,748",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Shazam', 'year': 2019, 'path': '/data/media/movies/Shazam! (2019)', 'size_on_disk_bytes': 14024853360, 'size_on_disk_gb': 14.02}"
+}
+{
+	"time": "2021-12-27 21:01:27,843",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Best of Enemies', 'year': 2019, 'path': '/data/media/movies/The Best of Enemies (2019)', 'size_on_disk_bytes': 10565061505, 'size_on_disk_gb': 10.57}"
+}
+{
+	"time": "2021-12-27 21:01:28,012",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Nancy Drew and the Hidden Staircase', 'year': 2019, 'path': '/data/media/movies/Nancy Drew and the Hidden Staircase (2019)', 'size_on_disk_bytes': 7036931847, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:01:28,151",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'After', 'year': 2019, 'path': '/data/media/movies/After (2019)', 'size_on_disk_bytes': 8215054895, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 21:01:28,350",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Breakthrough', 'year': 2019, 'path': '/data/media/movies/Breakthrough (2019)', 'size_on_disk_bytes': 13137871946, 'size_on_disk_gb': 13.14}"
+}
+{
+	"time": "2021-12-27 21:01:28,420",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The World We Make', 'year': 2019, 'path': '/data/media/movies/The World We Make (2019)', 'size_on_disk_bytes': 4024882064, 'size_on_disk_gb': 4.02}"
+}
+{
+	"time": "2021-12-27 21:01:28,539",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Alita Battle Angel', 'year': 2019, 'path': '/data/media/movies/Alita Battle Angel (2019)', 'size_on_disk_bytes': 10560764701, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 21:01:28,675",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'LOL', 'year': 2012, 'path': '/data/media/movies/LOL (2012)', 'size_on_disk_bytes': 8679675509, 'size_on_disk_gb': 8.68}"
+}
+{
+	"time": "2021-12-27 21:01:28,812",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Step Up 3D', 'year': 2010, 'path': '/data/media/movies/Step Up 3D (2010)', 'size_on_disk_bytes': 9391661650, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:32,439",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Step Up All In', 'year': 2014, 'path': '/data/media/movies/Step Up All In (2014)', 'size_on_disk_bytes': 8525318406, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:01:32,594",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Missing Link', 'year': 2019, 'path': '/data/media/movies/Missing Link (2019)', 'size_on_disk_bytes': 4689522004, 'size_on_disk_gb': 4.69}"
+}
+{
+	"time": "2021-12-27 21:01:32,673",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Intruder', 'year': 2019, 'path': '/data/media/movies/The Intruder (2019)', 'size_on_disk_bytes': 8216025230, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 21:01:32,822",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Stuber', 'year': 2019, 'path': '/data/media/movies/Stuber (2019)', 'size_on_disk_bytes': 9444224443, 'size_on_disk_gb': 9.44}"
+}
+{
+	"time": "2021-12-27 21:01:32,943",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hellboy', 'year': 2019, 'path': '/data/media/movies/Hellboy (2019)', 'size_on_disk_bytes': 11129499256, 'size_on_disk_gb': 11.13}"
+}
+{
+	"time": "2021-12-27 21:01:33,065",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Step Up Revolution', 'year': 2012, 'path': '/data/media/movies/Step Up Revolution (2012)', 'size_on_disk_bytes': 4260273329, 'size_on_disk_gb': 4.26}"
+}
+{
+	"time": "2021-12-27 21:01:33,418",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Curse of La Llorona', 'year': 2019, 'path': '/data/media/movies/The Curse of La Llorona (2019)', 'size_on_disk_bytes': 7040092426, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:01:33,684",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'UglyDolls', 'year': 2019, 'path': '/data/media/movies/UglyDolls (2019)', 'size_on_disk_bytes': 4693581688, 'size_on_disk_gb': 4.69}"
+}
+{
+	"time": "2021-12-27 21:01:33,711",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Hole in the Ground', 'year': 2019, 'path': '/data/media/movies/The Hole in the Ground (2019)', 'size_on_disk_bytes': 7034779795, 'size_on_disk_gb': 7.03}"
+}
+{
+	"time": "2021-12-27 21:01:33,788",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Be Somebody', 'year': 2016, 'path': '/data/media/movies/Be Somebody (2016)', 'size_on_disk_bytes': 3142786156, 'size_on_disk_gb': 3.14}"
+}
+{
+	"time": "2021-12-27 21:01:33,899",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Fracture', 'year': 2007, 'path': '/data/media/movies/Fracture (2007)', 'size_on_disk_bytes': 8533951004, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:01:34,080",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Murder in the First', 'year': 1995, 'path': '/data/media/movies/Murder in the First (1995)', 'size_on_disk_bytes': 15058372958, 'size_on_disk_gb': 15.06}"
+}
+{
+	"time": "2021-12-27 21:01:34,197",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Runaway Jury', 'year': 2003, 'path': '/data/media/movies/Runaway Jury (2003)', 'size_on_disk_bytes': 11520002901, 'size_on_disk_gb': 11.52}"
+}
+{
+	"time": "2021-12-27 21:01:34,325",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'JFK', 'year': 1991, 'path': '/data/media/movies/JFK (1991)', 'size_on_disk_bytes': 17409945334, 'size_on_disk_gb': 17.41}"
+}
+{
+	"time": "2021-12-27 21:01:34,416",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Nothing But the Truth', 'year': 2008, 'path': '/data/media/movies/Nothing But the Truth (2008)', 'size_on_disk_bytes': 8528465372, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:01:34,569",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Long Shot', 'year': 2019, 'path': '/data/media/movies/Long Shot (2019)', 'size_on_disk_bytes': 9386851916, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:34,736",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Tolkien', 'year': 2019, 'path': '/data/media/movies/Tolkien (2019)', 'size_on_disk_bytes': 9981808637, 'size_on_disk_gb': 9.98}"
+}
+{
+	"time": "2021-12-27 21:01:34,896",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Avengers Endgame', 'year': 2019, 'path': '/data/media/movies/Avengers Endgame (2019)', 'size_on_disk_bytes': 14087798429, 'size_on_disk_gb': 14.09}"
+}
+{
+	"time": "2021-12-27 21:01:35,275",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Unplanned', 'year': 2019, 'path': '/data/media/movies/Unplanned (2019)', 'size_on_disk_bytes': 10530440343, 'size_on_disk_gb': 10.53}"
+}
+{
+	"time": "2021-12-27 21:01:39,294",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Aladdin', 'year': 2019, 'path': '/data/media/movies/Aladdin (2019)', 'size_on_disk_bytes': 10563360487, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 21:01:39,396",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Evolution', 'year': 2001, 'path': '/data/media/movies/Evolution (2001)', 'size_on_disk_bytes': 9739552328, 'size_on_disk_gb': 9.74}"
+}
+{
+	"time": "2021-12-27 21:01:39,536",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Brightburn', 'year': 2019, 'path': '/data/media/movies/Brightburn (2019)', 'size_on_disk_bytes': 10866893628, 'size_on_disk_gb': 10.87}"
+}
+{
+	"time": "2021-12-27 21:01:39,558",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Hustle', 'year': 2019, 'path': '/data/media/movies/The Hustle (2019)', 'size_on_disk_bytes': 8216566218, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 21:01:39,693",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Rocketman', 'year': 2019, 'path': '/data/media/movies/Rocketman (2019)', 'size_on_disk_bytes': 8527988908, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:01:39,796",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Godzilla King of the Monsters', 'year': 2019, 'path': '/data/media/movies/Godzilla King of the Monsters (2019)', 'size_on_disk_bytes': 9389040898, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:40,048",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Secret Life of Pets 2', 'year': 2019, 'path': '/data/media/movies/The Secret Life of Pets 2 (2019)', 'size_on_disk_bytes': 10305875218, 'size_on_disk_gb': 10.31}"
+}
+{
+	"time": "2021-12-27 21:01:40,110",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Men in Black International', 'year': 2019, 'path': '/data/media/movies/Men in Black International (2019)', 'size_on_disk_bytes': 9389026109, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:40,184",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ma', 'year': 2019, 'path': '/data/media/movies/Ma (2019)', 'size_on_disk_bytes': 8983348579, 'size_on_disk_gb': 8.98}"
+}
+{
+	"time": "2021-12-27 21:01:40,319",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Thunderheart', 'year': 1992, 'path': '/data/media/movies/Thunderheart (1992)', 'size_on_disk_bytes': 5450353843, 'size_on_disk_gb': 5.45}"
+}
+{
+	"time": "2021-12-27 21:01:40,423",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': '1492 Conquest of Paradise', 'year': 1992, 'path': '/data/media/movies/1492 Conquest of Paradise (1992)', 'size_on_disk_bytes': 11734017453, 'size_on_disk_gb': 11.73}"
+}
+{
+	"time": "2021-12-27 21:01:40,535",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Slow West', 'year': 2015, 'path': '/data/media/movies/Slow West (2015)', 'size_on_disk_bytes': 11389541533, 'size_on_disk_gb': 11.39}"
+}
+{
+	"time": "2021-12-27 21:01:42,357",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Far and Away', 'year': 1992, 'path': '/data/media/movies/Far and Away (1992)', 'size_on_disk_bytes': 16087600355, 'size_on_disk_gb': 16.09}"
+}
+{
+	"time": "2021-12-27 21:01:42,486",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Chaser', 'year': 2008, 'path': '/data/media/movies/The Chaser (2008)', 'size_on_disk_bytes': 15591805442, 'size_on_disk_gb': 15.59}"
+}
+{
+	"time": "2021-12-27 21:01:42,613",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Dead Dont Die', 'year': 2019, 'path': "/data/media/movies/The Dead Don't Die (2019)", 'size_on_disk_bytes': 10191810971, 'size_on_disk_gb': 10.19}"
+}
+{
+	"time": "2021-12-27 21:01:42,662",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Yesterday', 'year': 2019, 'path': '/data/media/movies/Yesterday (2019)', 'size_on_disk_bytes': 8214208558, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:42,723",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Shaft', 'year': 2019, 'path': '/data/media/movies/Shaft (2019)', 'size_on_disk_bytes': 8212779424, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:42,881",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Virus', 'year': 1999, 'path': '/data/media/movies/Virus (1999)', 'size_on_disk_bytes': 10870992579, 'size_on_disk_gb': 10.87}"
+}
+{
+	"time": "2021-12-27 21:01:43,034",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Murder She Said', 'year': 1961, 'path': '/data/media/movies/Murder She Said (1961)', 'size_on_disk_bytes': 8481572135, 'size_on_disk_gb': 8.48}"
+}
+{
+	"time": "2021-12-27 21:01:43,123",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'SpiderMan Far From Home', 'year': 2019, 'path': '/data/media/movies/Spider-Man Far from Home (2019)', 'size_on_disk_bytes': 10565653075, 'size_on_disk_gb': 10.57}"
+}
+{
+	"time": "2021-12-27 21:01:43,240",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Where the Heart Is', 'year': 2000, 'path': '/data/media/movies/Where the Heart Is (2000)', 'size_on_disk_bytes': 9114692671, 'size_on_disk_gb': 9.11}"
+}
+{
+	"time": "2021-12-27 21:01:43,376",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': '3 from Hell', 'year': 2019, 'path': '/data/media/movies/3 from Hell (2019)', 'size_on_disk_bytes': 8208808498, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:43,455",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Devils Rejects', 'year': 2005, 'path': "/data/media/movies/The Devil's Rejects (2005)", 'size_on_disk_bytes': 2271372762, 'size_on_disk_gb': 2.27}"
+}
+{
+	"time": "2021-12-27 21:01:43,601",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ferdinand', 'year': 2017, 'path': '/data/media/movies/Ferdinand (2017)', 'size_on_disk_bytes': 2213955917, 'size_on_disk_gb': 2.21}"
+}
+{
+	"time": "2021-12-27 21:01:46,553",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hes Just Not That Into You', 'year': 2009, 'path': "/data/media/movies/He's Just Not That Into You (2009)", 'size_on_disk_bytes': 2647589860, 'size_on_disk_gb': 2.65}"
+}
+{
+	"time": "2021-12-27 21:01:46,730",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Kitchen', 'year': 2019, 'path': '/data/media/movies/The Kitchen (2019)', 'size_on_disk_bytes': 8213921217, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:46,801",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'See You Soon', 'year': 2019, 'path': '/data/media/movies/See You Soon (2019)', 'size_on_disk_bytes': 3991103234, 'size_on_disk_gb': 3.99}"
+}
+{
+	"time": "2021-12-27 21:01:46,858",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Fast  Furious Presents Hobbs  Shaw', 'year': 2019, 'path': '/data/media/movies/Fast & Furious Presents Hobbs & Shaw (2019)', 'size_on_disk_bytes': 10561522951, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 21:01:46,970",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Angry Birds Movie 2', 'year': 2019, 'path': '/data/media/movies/The Angry Birds Movie 2 (2019)', 'size_on_disk_bytes': 5867443623, 'size_on_disk_gb': 5.87}"
+}
+{
+	"time": "2021-12-27 21:01:47,153",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Scary Stories to Tell in the Dark', 'year': 2019, 'path': '/data/media/movies/Scary Stories to Tell in the Dark (2019)', 'size_on_disk_bytes': 8213446687, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:47,304",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Art of Racing in the Rain', 'year': 2019, 'path': '/data/media/movies/The Art of Racing in the Rain (2019)', 'size_on_disk_bytes': 8213417854, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:47,408",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Wrinkles the Clown', 'year': 2019, 'path': '/data/media/movies/Wrinkles the Clown (2019)', 'size_on_disk_bytes': 5058220069, 'size_on_disk_gb': 5.06}"
+}
+{
+	"time": "2021-12-27 21:01:47,487",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': '47 Meters Down Uncaged', 'year': 2019, 'path': '/data/media/movies/47 Meters Down Uncaged (2019)', 'size_on_disk_bytes': 7033515964, 'size_on_disk_gb': 7.03}"
+}
+{
+	"time": "2021-12-27 21:01:47,684",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Late Night', 'year': 2019, 'path': '/data/media/movies/Late Night (2019)', 'size_on_disk_bytes': 10867185215, 'size_on_disk_gb': 10.87}"
+}
+{
+	"time": "2021-12-27 21:01:47,771",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Blinded by the Light', 'year': 2019, 'path': '/data/media/movies/Blinded by the Light (2019)', 'size_on_disk_bytes': 8207107072, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:47,914",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Brian Banks', 'year': 2019, 'path': '/data/media/movies/Brian Banks (2019)', 'size_on_disk_bytes': 8211828710, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:48,030",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Angel Has Fallen', 'year': 2019, 'path': '/data/media/movies/Angel Has Fallen (2019)', 'size_on_disk_bytes': 12095198793, 'size_on_disk_gb': 12.1}"
+}
+{
+	"time": "2021-12-27 21:01:50,528",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Whered You Go Bernadette', 'year': 2019, 'path': "/data/media/movies/Where'd You Go, Bernadette (2019)", 'size_on_disk_bytes': 8215555996, 'size_on_disk_gb': 8.22}"
+}
+{
+	"time": "2021-12-27 21:01:50,618",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Brittany Runs a Marathon', 'year': 2019, 'path': '/data/media/movies/Brittany Runs a Marathon (2019)', 'size_on_disk_bytes': 7342338526, 'size_on_disk_gb': 7.34}"
+}
+{
+	"time": "2021-12-27 21:01:50,818",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hustlers', 'year': 2019, 'path': '/data/media/movies/Hustlers (2019)', 'size_on_disk_bytes': 8211741508, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:50,853",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'To All the Boys Ive Loved Before', 'year': 2018, 'path': "/data/media/movies/To All the Boys I've Loved Before (2018)", 'size_on_disk_bytes': 3069888467, 'size_on_disk_gb': 3.07}"
+}
+{
+	"time": "2021-12-27 21:01:50,902",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Kid Like Jake', 'year': 2018, 'path': '/data/media/movies/A Kid Like Jake (2018)', 'size_on_disk_bytes': 9385184856, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:51,105",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Overcomer', 'year': 2019, 'path': '/data/media/movies/Overcomer (2019)', 'size_on_disk_bytes': 9390652363, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:01:51,203",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Downton Abbey', 'year': 2019, 'path': '/data/media/movies/Downton Abbey (2019)', 'size_on_disk_bytes': 16670876383, 'size_on_disk_gb': 16.67}"
+}
+{
+	"time": "2021-12-27 21:01:51,291",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ad Astra', 'year': 2019, 'path': '/data/media/movies/Ad Astra (2019)', 'size_on_disk_bytes': 9374922483, 'size_on_disk_gb': 9.37}"
+}
+{
+	"time": "2021-12-27 21:01:51,406",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Rambo Last Blood', 'year': 2019, 'path': '/data/media/movies/Rambo Last Blood (2019)', 'size_on_disk_bytes': 5850777809, 'size_on_disk_gb': 5.85}"
+}
+{
+	"time": "2021-12-27 21:01:51,494",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Abominable', 'year': 2019, 'path': '/data/media/movies/Abominable (2019)', 'size_on_disk_bytes': 12633929309, 'size_on_disk_gb': 12.63}"
+}
+{
+	"time": "2021-12-27 21:01:51,678",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Playmobil The Movie', 'year': 2019, 'path': '/data/media/movies/Playmobil The Movie (2019)', 'size_on_disk_bytes': 8210410837, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:51,859",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Abbott and Costello Meet the Keystone Kops', 'year': 1955, 'path': '/data/media/movies/Abbott and Costello Meet the Keystone Kops (1955)', 'size_on_disk_bytes': 1615346235, 'size_on_disk_gb': 1.62}"
+}
+{
+	"time": "2021-12-27 21:01:51,980",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Judy', 'year': 2019, 'path': '/data/media/movies/Judy (2019)', 'size_on_disk_bytes': 9714619338, 'size_on_disk_gb': 9.71}"
+}
+{
+	"time": "2021-12-27 21:01:54,264",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Love Under the Stars', 'year': 2015, 'path': '/data/media/movies/Love Under the Stars (2015)', 'size_on_disk_bytes': 7280962226, 'size_on_disk_gb': 7.28}"
+}
+{
+	"time": "2021-12-27 21:01:54,403",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'An Amish Murder', 'year': 2013, 'path': '/data/media/movies/An Amish Murder (2013)', 'size_on_disk_bytes': 3493698091, 'size_on_disk_gb': 3.49}"
+}
+{
+	"time": "2021-12-27 21:01:54,467",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Rising Sun', 'year': 1993, 'path': '/data/media/movies/Rising Sun (1993)', 'size_on_disk_bytes': 11738859276, 'size_on_disk_gb': 11.74}"
+}
+{
+	"time": "2021-12-27 21:01:54,551",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Book of Monsters', 'year': 2019, 'path': '/data/media/movies/Book of Monsters (2019)', 'size_on_disk_bytes': 5167178919, 'size_on_disk_gb': 5.17}"
+}
+{
+	"time": "2021-12-27 21:01:54,628",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Gemini Man', 'year': 2019, 'path': '/data/media/movies/Gemini Man (2019)', 'size_on_disk_bytes': 13037929050, 'size_on_disk_gb': 13.04}"
+}
+{
+	"time": "2021-12-27 21:01:54,904",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Combat Obscura', 'year': 2018, 'path': '/data/media/movies/Combat Obscura (2018)', 'size_on_disk_bytes': 4877051413, 'size_on_disk_gb': 4.88}"
+}
+{
+	"time": "2021-12-27 21:01:55,495",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Addams Family', 'year': 2019, 'path': '/data/media/movies/The Addams Family (2019)', 'size_on_disk_bytes': 4689886548, 'size_on_disk_gb': 4.69}"
+}
+{
+	"time": "2021-12-27 21:01:55,737",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Black and Blue', 'year': 2019, 'path': '/data/media/movies/Black and Blue (2019)', 'size_on_disk_bytes': 8209371173, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:56,255",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Countdown', 'year': 2019, 'path': '/data/media/movies/Countdown (2019)', 'size_on_disk_bytes': 7031536371, 'size_on_disk_gb': 7.03}"
+}
+{
+	"time": "2021-12-27 21:01:56,386",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Jexi', 'year': 2019, 'path': '/data/media/movies/Jexi (2019)', 'size_on_disk_bytes': 8253900990, 'size_on_disk_gb': 8.25}"
+}
+{
+	"time": "2021-12-27 21:01:56,412",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Terminator Dark Fate', 'year': 2019, 'path': '/data/media/movies/Terminator Dark Fate (2019)', 'size_on_disk_bytes': 13932446986, 'size_on_disk_gb': 13.93}"
+}
+{
+	"time": "2021-12-27 21:01:56,498",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Sun Is Also a Star', 'year': 2019, 'path': '/data/media/movies/The Sun Is Also a Star (2019)', 'size_on_disk_bytes': 10973783357, 'size_on_disk_gb': 10.97}"
+}
+{
+	"time": "2021-12-27 21:01:56,674",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Motherless Brooklyn', 'year': 2019, 'path': '/data/media/movies/Motherless Brooklyn (2019)', 'size_on_disk_bytes': 12503800473, 'size_on_disk_gb': 12.5}"
+}
+{
+	"time": "2021-12-27 21:01:56,734",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Good Liar', 'year': 2019, 'path': '/data/media/movies/The Good Liar (2019)', 'size_on_disk_bytes': 8198380466, 'size_on_disk_gb': 8.2}"
+}
+{
+	"time": "2021-12-27 21:01:56,811",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Playing with Fire', 'year': 2019, 'path': '/data/media/movies/Playing with Fire (2019)', 'size_on_disk_bytes': 7033949855, 'size_on_disk_gb': 7.03}"
+}
+{
+	"time": "2021-12-27 21:01:56,954",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Arctic Dogs', 'year': 2019, 'path': '/data/media/movies/Arctic Dogs (2019)', 'size_on_disk_bytes': 1902393150, 'size_on_disk_gb': 1.9}"
+}
+{
+	"time": "2021-12-27 21:01:57,060",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Last Christmas', 'year': 2019, 'path': '/data/media/movies/Last Christmas (2019)', 'size_on_disk_bytes': 2106201278, 'size_on_disk_gb': 2.11}"
+}
+{
+	"time": "2021-12-27 21:01:58,696",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ford v Ferrari', 'year': 2019, 'path': '/data/media/movies/Ford v Ferrari (2019)', 'size_on_disk_bytes': 11718360604, 'size_on_disk_gb': 11.72}"
+}
+{
+	"time": "2021-12-27 21:01:58,820",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Beautiful Day in the Neighborhood', 'year': 2019, 'path': '/data/media/movies/A Beautiful Day in the Neighborhood (2019)', 'size_on_disk_bytes': 8214800165, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:01:58,899",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Midway', 'year': 2019, 'path': '/data/media/movies/Midway (2019)', 'size_on_disk_bytes': 9369187230, 'size_on_disk_gb': 9.37}"
+}
+{
+	"time": "2021-12-27 21:01:58,952",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': '21 Bridges', 'year': 2019, 'path': '/data/media/movies/21 Bridges (2019)', 'size_on_disk_bytes': 8199159321, 'size_on_disk_gb': 8.2}"
+}
+{
+	"time": "2021-12-27 21:01:59,026",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'From the Hip', 'year': 1987, 'path': '/data/media/movies/From the Hip (1987)', 'size_on_disk_bytes': 2279509343, 'size_on_disk_gb': 2.28}"
+}
+{
+	"time": "2021-12-27 21:01:59,114",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hobsons Choice', 'year': 1954, 'path': "/data/media/movies/Hobson's Choice (1954)", 'size_on_disk_bytes': 1757810401, 'size_on_disk_gb': 1.76}"
+}
+{
+	"time": "2021-12-27 21:01:59,534",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'In the Heart of the Sea', 'year': 2015, 'path': '/data/media/movies/In the Heart of the Sea (2015)', 'size_on_disk_bytes': 6054838213, 'size_on_disk_gb': 6.05}"
+}
+{
+	"time": "2021-12-27 21:02:00,539",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Charlies Angels', 'year': 2019, 'path': "/data/media/movies/Charlie's Angels (2019)", 'size_on_disk_bytes': 16620769099, 'size_on_disk_gb': 16.62}"
+}
+{
+	"time": "2021-12-27 21:02:00,624",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Tangerine', 'year': 2015, 'path': '/data/media/movies/Tangerine (2015)', 'size_on_disk_bytes': 1560650991, 'size_on_disk_gb': 1.56}"
+}
+{
+	"time": "2021-12-27 21:02:00,681",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Bring It On In It to Win It', 'year': 2007, 'path': '/data/media/movies/Bring It On In It To Win It (2007)', 'size_on_disk_bytes': 9965761924, 'size_on_disk_gb': 9.97}"
+}
+{
+	"time": "2021-12-27 21:02:00,769",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Dark Waters', 'year': 2019, 'path': '/data/media/movies/Dark Waters (2019)', 'size_on_disk_bytes': 2124501648, 'size_on_disk_gb': 2.12}"
+}
+{
+	"time": "2021-12-27 21:02:00,933",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Repulsion', 'year': 1965, 'path': '/data/media/movies/Repulsion (1965)', 'size_on_disk_bytes': 1787985956, 'size_on_disk_gb': 1.79}"
+}
+{
+	"time": "2021-12-27 21:02:01,113",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Queen  Slim', 'year': 2019, 'path': '/data/media/movies/Queen & Slim (2019)', 'size_on_disk_bytes': 2213405585, 'size_on_disk_gb': 2.21}"
+}
+{
+	"time": "2021-12-27 21:02:01,351",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Outlaw Prophet Warren Jeffs', 'year': 2014, 'path': '/data/media/movies/Outlaw Prophet Warren Jeffs (2014)', 'size_on_disk_bytes': 3718473828, 'size_on_disk_gb': 3.72}"
+}
+{
+	"time": "2021-12-27 21:02:01,567",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Patriot', 'year': 2000, 'path': '/data/media/movies/The Patriot (2000)', 'size_on_disk_bytes': 2928360847, 'size_on_disk_gb': 2.93}"
+}
+{
+	"time": "2021-12-27 21:02:01,701",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Prince  Me', 'year': 2004, 'path': '/data/media/movies/The Prince & Me (2004)', 'size_on_disk_bytes': 7038540926, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:02:01,821",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Its Kind of a Funny Story', 'year': 2010, 'path': "/data/media/movies/It's Kind of a Funny Story (2010)", 'size_on_disk_bytes': 1693021836, 'size_on_disk_gb': 1.69}"
+}
+{
+	"time": "2021-12-27 21:02:02,589",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Conspirator', 'year': 2010, 'path': '/data/media/movies/The Conspirator (2010)', 'size_on_disk_bytes': 9388972422, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:02:02,879",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Gentlemen', 'year': 2019, 'path': '/data/media/movies/The Gentlemen (2020)', 'size_on_disk_bytes': 1721881339, 'size_on_disk_gb': 1.72}"
+}
+{
+	"time": "2021-12-27 21:02:02,987",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Just Cause', 'year': 1995, 'path': '/data/media/movies/Just Cause (1995)', 'size_on_disk_bytes': 3204081303, 'size_on_disk_gb': 3.2}"
+}
+{
+	"time": "2021-12-27 21:02:03,164",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Spring Breakers', 'year': 2013, 'path': '/data/media/movies/Spring Breakers (2013)', 'size_on_disk_bytes': 1571817235, 'size_on_disk_gb': 1.57}"
+}
+{
+	"time": "2021-12-27 21:02:03,488",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Invisible Man', 'year': 2020, 'path': None, 'size_on_disk_bytes': 0, 'size_on_disk_gb': 0.0}"
+}
+{
+	"time": "2021-12-27 21:02:03,512",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Cloverfield', 'year': 2008, 'path': '/data/media/movies/Cloverfield (2008)', 'size_on_disk_bytes': 7514586005, 'size_on_disk_gb': 7.51}"
+}
+{
+	"time": "2021-12-27 21:02:03,562",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Knock Knock', 'year': 2015, 'path': '/data/media/movies/Knock Knock (2015)', 'size_on_disk_bytes': 9386391812, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:02:03,747",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Sexy Beast', 'year': 2001, 'path': '/data/media/movies/Sexy Beast (2001)', 'size_on_disk_bytes': 9739399275, 'size_on_disk_gb': 9.74}"
+}
+{
+	"time": "2021-12-27 21:02:03,811",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Dogma', 'year': 1999, 'path': '/data/media/movies/Dogma (1999)', 'size_on_disk_bytes': 9395097640, 'size_on_disk_gb': 9.4}"
+}
+{
+	"time": "2021-12-27 21:02:03,993",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Lucky One', 'year': 2012, 'path': '/data/media/movies/The Lucky One (2012)', 'size_on_disk_bytes': 1688353872, 'size_on_disk_gb': 1.69}"
+}
+{
+	"time": "2021-12-27 21:02:04,268",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'I Still Believe', 'year': 2020, 'path': '/data/media/movies/I Still Believe (2020)', 'size_on_disk_bytes': 7726795027, 'size_on_disk_gb': 7.73}"
+}
+{
+	"time": "2021-12-27 21:02:04,594",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Spectacular Now', 'year': 2013, 'path': '/data/media/movies/The Spectacular Now (2013)', 'size_on_disk_bytes': 7041356718, 'size_on_disk_gb': 7.04}"
+}
+{
+	"time": "2021-12-27 21:02:05,194",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Escape from Polygamy', 'year': 2013, 'path': '/data/media/movies/Escape from Polygamy (2013)', 'size_on_disk_bytes': 6525662294, 'size_on_disk_gb': 6.53}"
+}
+{
+	"time": "2021-12-27 21:02:05,225",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Step Up 2 The Streets', 'year': 2008, 'path': '/data/media/movies/Step Up 2 The Streets (2008)', 'size_on_disk_bytes': 1636306568, 'size_on_disk_gb': 1.64}"
+}
+{
+	"time": "2021-12-27 21:02:05,379",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Scoob', 'year': 2020, 'path': '/data/media/movies/Scoob! (2020)', 'size_on_disk_bytes': 7278493818, 'size_on_disk_gb': 7.28}"
+}
+{
+	"time": "2021-12-27 21:02:05,439",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Town That Dreaded Sundown', 'year': 1976, 'path': '/data/media/movies/The Town That Dreaded Sundown (1976)', 'size_on_disk_bytes': 7034872589, 'size_on_disk_gb': 7.03}"
+}
+{
+	"time": "2021-12-27 21:02:05,529",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Town that Dreaded Sundown', 'year': 2014, 'path': '/data/media/movies/The Town that Dreaded Sundown (2014)', 'size_on_disk_bytes': 8075108245, 'size_on_disk_gb': 8.08}"
+}
+{
+	"time": "2021-12-27 21:02:05,669",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Verdict', 'year': 1982, 'path': '/data/media/movies/The Verdict (1982)', 'size_on_disk_bytes': 11030258070, 'size_on_disk_gb': 11.03}"
+}
+{
+	"time": "2021-12-27 21:02:05,780",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The King of Staten Island', 'year': 2020, 'path': '/data/media/movies/The King of Staten Island (2020)', 'size_on_disk_bytes': 14503401649, 'size_on_disk_gb': 14.5}"
+}
+{
+	"time": "2021-12-27 21:02:05,935",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Thursday', 'year': 1998, 'path': '/data/media/movies/Thursday (1998)', 'size_on_disk_bytes': 9385568600, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:02:06,134",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Kung Fu Hustle', 'year': 2004, 'path': '/data/media/movies/Kung Fu Hustle (2004)', 'size_on_disk_bytes': 14528937341, 'size_on_disk_gb': 14.53}"
+}
+{
+	"time": "2021-12-27 21:02:06,234",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Zombie Tidal Wave', 'year': 2019, 'path': '/data/media/movies/Zombie Tidal Wave (2019)', 'size_on_disk_bytes': 3867067604, 'size_on_disk_gb': 3.87}"
+}
+{
+	"time": "2021-12-27 21:02:06,448",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'God Bless America', 'year': 2011, 'path': '/data/media/movies/God Bless America (2011)', 'size_on_disk_bytes': 8531507663, 'size_on_disk_gb': 8.53}"
+}
+{
+	"time": "2021-12-27 21:02:08,502",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Mommy', 'year': 2014, 'path': '/data/media/movies/Mommy (2014)', 'size_on_disk_bytes': 10562243139, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 21:02:08,633",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'On Deadly Ground', 'year': 1994, 'path': '/data/media/movies/On Deadly Ground (1994)', 'size_on_disk_bytes': 9360665156, 'size_on_disk_gb': 9.36}"
+}
+{
+	"time": "2021-12-27 21:02:08,795",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Clear and Present Danger', 'year': 1994, 'path': '/data/media/movies/Clear and Present Danger (1994)', 'size_on_disk_bytes': 2891313554, 'size_on_disk_gb': 2.89}"
+}
+{
+	"time": "2021-12-27 21:02:08,847",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'You Cast A Spell On Me', 'year': 2015, 'path': '/data/media/movies/You Cast A Spell On Me (2015)', 'size_on_disk_bytes': 5499821469, 'size_on_disk_gb': 5.5}"
+}
+{
+	"time": "2021-12-27 21:02:08,919",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Children of Men', 'year': 2006, 'path': '/data/media/movies/Children of Men (2006)', 'size_on_disk_bytes': 13110649019, 'size_on_disk_gb': 13.11}"
+}
+{
+	"time": "2021-12-27 21:02:08,986",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'After We Collided', 'year': 2020, 'path': '/data/media/movies/After We Collided (2020)', 'size_on_disk_bytes': 7276296621, 'size_on_disk_gb': 7.28}"
+}
+{
+	"time": "2021-12-27 21:02:09,113",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Italian Spiderman', 'year': 2007, 'path': '/data/media/movies/Italian Spiderman (2007)', 'size_on_disk_bytes': 6343857711, 'size_on_disk_gb': 6.34}"
+}
+{
+	"time": "2021-12-27 21:02:09,317",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Sputnik', 'year': 2020, 'path': '/data/media/movies/Sputnik (2020)', 'size_on_disk_bytes': 3762741916, 'size_on_disk_gb': 3.76}"
+}
+{
+	"time": "2021-12-27 21:02:09,414",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Blue Story', 'year': 2019, 'path': '/data/media/movies/Blue Story (2019)', 'size_on_disk_bytes': 835237923, 'size_on_disk_gb': 0.84}"
+}
+{
+	"time": "2021-12-27 21:02:09,542",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Abbott and Costello Meet Captain Kidd', 'year': 1952, 'path': '/data/media/movies/Abbott and Costello Meet Captain Kidd (1952)', 'size_on_disk_bytes': 1001163865, 'size_on_disk_gb': 1.0}"
+}
+{
+	"time": "2021-12-27 21:02:09,625",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Archive', 'year': 2020, 'path': '/data/media/movies/Archive (2020)', 'size_on_disk_bytes': 2724598857, 'size_on_disk_gb': 2.72}"
+}
+{
+	"time": "2021-12-27 21:02:09,720",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Croods A New Age', 'year': 2020, 'path': '/data/media/movies/The Croods A New Age (2020)', 'size_on_disk_bytes': 4374689290, 'size_on_disk_gb': 4.37}"
+}
+{
+	"time": "2021-12-27 21:02:11,559",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The War with Grandpa', 'year': 2020, 'path': '/data/media/movies/The War with Grandpa (2020)', 'size_on_disk_bytes': 10666395479, 'size_on_disk_gb': 10.67}"
+}
+{
+	"time": "2021-12-27 21:02:11,905",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Man of Steel', 'year': 2013, 'path': '/data/media/movies/Man of Steel (2013)', 'size_on_disk_bytes': 2928241973, 'size_on_disk_gb': 2.93}"
+}
+{
+	"time": "2021-12-27 21:02:11,934",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Wonder Woman 1984', 'year': 2020, 'path': '/data/media/movies/Wonder Woman 1984 (2020)', 'size_on_disk_bytes': 2896623453, 'size_on_disk_gb': 2.9}"
+}
+{
+	"time": "2021-12-27 21:02:12,064",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Edge of Tomorrow', 'year': 2014, 'path': '/data/media/movies/Edge of Tomorrow (2014)', 'size_on_disk_bytes': 10039110992, 'size_on_disk_gb': 10.04}"
+}
+{
+	"time": "2021-12-27 21:02:12,199",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Come Play', 'year': 2020, 'path': '/data/media/movies/Come Play (2020)', 'size_on_disk_bytes': 10685524960, 'size_on_disk_gb': 10.69}"
+}
+{
+	"time": "2021-12-27 21:02:12,245",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Cats  Dogs 3 Paws Unite', 'year': 2020, 'path': '/data/media/movies/Cats & Dogs 3 Paws Unite (2020)', 'size_on_disk_bytes': 947650560, 'size_on_disk_gb': 0.95}"
+}
+{
+	"time": "2021-12-27 21:02:12,332",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Let Him Go', 'year': 2020, 'path': '/data/media/movies/Let Him Go (2020)', 'size_on_disk_bytes': 13638134938, 'size_on_disk_gb': 13.64}"
+}
+{
+	"time": "2021-12-27 21:02:12,533",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Extraordinary The Seeding', 'year': 2019, 'path': '/data/media/movies/Extraordinary The Seeding (2019)', 'size_on_disk_bytes': 5668641393, 'size_on_disk_gb': 5.67}"
+}
+{
+	"time": "2021-12-27 21:02:12,612",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Crawl', 'year': 2019, 'path': '/data/media/movies/Crawl (2019)', 'size_on_disk_bytes': 9390085102, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:02:12,737",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ashfall', 'year': 2019, 'path': '/data/media/movies/Ashfall (2019)', 'size_on_disk_bytes': 5963717290, 'size_on_disk_gb': 5.96}"
+}
+{
+	"time": "2021-12-27 21:02:12,829",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Bunny Lake Is Missing', 'year': 1965, 'path': '/data/media/movies/Bunny Lake Is Missing (1965)', 'size_on_disk_bytes': 1760482058, 'size_on_disk_gb': 1.76}"
+}
+{
+	"time": "2021-12-27 21:02:14,221",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Thelma', 'year': 2017, 'path': '/data/media/movies/Thelma (2017)', 'size_on_disk_bytes': 1905098718, 'size_on_disk_gb': 1.91}"
+}
+{
+	"time": "2021-12-27 21:02:14,372",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Penelope', 'year': 1966, 'path': '/data/media/movies/Penelope (1966)', 'size_on_disk_bytes': 2718205156, 'size_on_disk_gb': 2.72}"
+}
+{
+	"time": "2021-12-27 21:02:14,407",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Honest Thief', 'year': 2020, 'path': '/data/media/movies/Honest Thief (2020)', 'size_on_disk_bytes': 2829742743, 'size_on_disk_gb': 2.83}"
+}
+{
+	"time": "2021-12-27 21:02:14,640",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'News of the World', 'year': 2020, 'path': '/data/media/movies/News of the World (2020)', 'size_on_disk_bytes': 7773500453, 'size_on_disk_gb': 7.77}"
+}
+{
+	"time": "2021-12-27 21:02:14,706",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'In the Line of Fire', 'year': 1993, 'path': '/data/media/movies/In the Line of Fire (1993)', 'size_on_disk_bytes': 10563253792, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 21:02:14,861",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Money Train', 'year': 1995, 'path': '/data/media/movies/Money Train (1995)', 'size_on_disk_bytes': 10881550973, 'size_on_disk_gb': 10.88}"
+}
+{
+	"time": "2021-12-27 21:02:14,994",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Below Zero', 'year': 2021, 'path': '/data/media/movies/Below Zero (2021)', 'size_on_disk_bytes': 3606061549, 'size_on_disk_gb': 3.61}"
+}
+{
+	"time": "2021-12-27 21:02:15,134",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Soul', 'year': 2020, 'path': '/data/media/movies/Soul (2020)', 'size_on_disk_bytes': 4276699224, 'size_on_disk_gb': 4.28}"
+}
+{
+	"time": "2021-12-27 21:02:15,329",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Host', 'year': 2020, 'path': '/data/media/movies/Host (2020)', 'size_on_disk_bytes': 2351458283, 'size_on_disk_gb': 2.35}"
+}
+{
+	"time": "2021-12-27 21:02:15,440",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': '9 Souls', 'year': 2003, 'path': '/data/media/movies/9 Souls (2003)', 'size_on_disk_bytes': 3823767875, 'size_on_disk_gb': 3.82}"
+}
+{
+	"time": "2021-12-27 21:02:15,644",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Fear of Rain', 'year': 2021, 'path': '/data/media/movies/Fear of Rain (2021)', 'size_on_disk_bytes': 4003181241, 'size_on_disk_gb': 4.0}"
+}
+{
+	"time": "2021-12-27 21:02:16,861",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Judas and the Black Messiah', 'year': 2021, 'path': '/data/media/movies/Judas and the Black Messiah (2021)', 'size_on_disk_bytes': 3186743060, 'size_on_disk_gb': 3.19}"
+}
+{
+	"time": "2021-12-27 21:02:17,090",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Silent Night Deadly Night', 'year': 1984, 'path': '/data/media/movies/Silent Night, Deadly Night (1984)', 'size_on_disk_bytes': 8733687557, 'size_on_disk_gb': 8.73}"
+}
+{
+	"time": "2021-12-27 21:02:17,416",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Silent Night Deadly Night Part 2', 'year': 1987, 'path': '/data/media/movies/Silent Night, Deadly Night Part 2 (1987)', 'size_on_disk_bytes': 9386224839, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:02:17,470",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Magnificent Seven', 'year': 1960, 'path': '/data/media/movies/The Magnificent Seven (1960)', 'size_on_disk_bytes': 3834069966, 'size_on_disk_gb': 3.83}"
+}
+{
+	"time": "2021-12-27 21:02:17,784",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Magnificent Seven', 'year': 1960, 'path': None, 'size_on_disk_bytes': 0, 'size_on_disk_gb': 0.0}"
+}
+{
+	"time": "2021-12-27 21:02:17,817",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Wedding Crashers', 'year': 2005, 'path': '/data/media/movies/Wedding Crashers (2005)', 'size_on_disk_bytes': 10761041153, 'size_on_disk_gb': 10.76}"
+}
+{
+	"time": "2021-12-27 21:02:17,855",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Changing Lanes', 'year': 2002, 'path': '/data/media/movies/Changing Lanes (2002)', 'size_on_disk_bytes': 2281050919, 'size_on_disk_gb': 2.28}"
+}
+{
+	"time": "2021-12-27 21:02:18,045",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Hunger Games', 'year': 2012, 'path': '/data/media/movies/The Hunger Games (2012)', 'size_on_disk_bytes': 3833021789, 'size_on_disk_gb': 3.83}"
+}
+{
+	"time": "2021-12-27 21:02:18,094",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Mortal Kombat', 'year': 2021, 'path': '/data/media/movies/Mortal Kombat (2021)', 'size_on_disk_bytes': 5983212400, 'size_on_disk_gb': 5.98}"
+}
+{
+	"time": "2021-12-27 21:02:18,184",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Godzilla vs Kong', 'year': 2021, 'path': '/data/media/movies/Godzilla vs. Kong (2021)', 'size_on_disk_bytes': 6151844135, 'size_on_disk_gb': 6.15}"
+}
+{
+	"time": "2021-12-27 21:02:18,288",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'When the Lights Went Out', 'year': 2012, 'path': '/data/media/movies/When the Lights Went Out (2012)', 'size_on_disk_bytes': 4685494743, 'size_on_disk_gb': 4.69}"
+}
+{
+	"time": "2021-12-27 21:02:18,348",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Hunger Games Catching Fire', 'year': 2013, 'path': '/data/media/movies/The Hunger Games Catching Fire (2013)', 'size_on_disk_bytes': 10560390234, 'size_on_disk_gb': 10.56}"
+}
+{
+	"time": "2021-12-27 21:02:19,106",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Unhinged', 'year': 2020, 'path': '/data/media/movies/Unhinged (2020)', 'size_on_disk_bytes': 6015422023, 'size_on_disk_gb': 6.02}"
+}
+{
+	"time": "2021-12-27 21:02:19,210",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Friends The Reunion', 'year': 2021, 'path': '/data/media/movies/Friends The Reunion (2021)', 'size_on_disk_bytes': 3935840598, 'size_on_disk_gb': 3.94}"
+}
+{
+	"time": "2021-12-27 21:02:19,419",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Almost Friends', 'year': 2017, 'path': '/data/media/movies/Almost Friends (2017)', 'size_on_disk_bytes': 8214660935, 'size_on_disk_gb': 8.21}"
+}
+{
+	"time": "2021-12-27 21:02:19,451",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Friends with Benefits', 'year': 2011, 'path': '/data/media/movies/Friends with Benefits (2011)', 'size_on_disk_bytes': 3662539834, 'size_on_disk_gb': 3.66}"
+}
+{
+	"time": "2021-12-27 21:02:19,749",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Last Boy Scout', 'year': 1991, 'path': '/data/media/movies/The Last Boy Scout (1991)', 'size_on_disk_bytes': 9390032046, 'size_on_disk_gb': 9.39}"
+}
+{
+	"time": "2021-12-27 21:02:19,817",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Tetsuo The Iron Man', 'year': 1989, 'path': '/data/media/movies/Tetsuo The Iron Man (1989)', 'size_on_disk_bytes': 6093614728, 'size_on_disk_gb': 6.09}"
+}
+{
+	"time": "2021-12-27 21:02:19,918",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Chemical Hearts', 'year': 2020, 'path': '/data/media/movies/Chemical Hearts (2020)', 'size_on_disk_bytes': 6068947902, 'size_on_disk_gb': 6.07}"
+}
+{
+	"time": "2021-12-27 21:02:20,041",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Bill  Teds Excellent Adventure', 'year': 1989, 'path': "/data/media/movies/Bill & Ted's Excellent Adventure (1989)", 'size_on_disk_bytes': 11750622676, 'size_on_disk_gb': 11.75}"
+}
+{
+	"time": "2021-12-27 21:02:20,212",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Escape from LA', 'year': 1996, 'path': '/data/media/movies/Escape from L.A. (1996)', 'size_on_disk_bytes': 13165963732, 'size_on_disk_gb': 13.17}"
+}
+{
+	"time": "2021-12-27 21:02:20,375",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'True Lies', 'year': 1994, 'path': '/data/media/movies/True Lies (1994)', 'size_on_disk_bytes': 4293350621, 'size_on_disk_gb': 4.29}"
+}
+{
+	"time": "2021-12-27 21:02:20,451",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Drugstore Girl', 'year': 2004, 'path': '/data/media/movies/Drugstore Girl (2004)', 'size_on_disk_bytes': 2255612629, 'size_on_disk_gb': 2.26}"
+}
+{
+	"time": "2021-12-27 21:02:20,746",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Hunger Games Mockingjay  Part 1', 'year': 2014, 'path': '/data/media/movies/The Hunger Games Mockingjay - Part 1 (2014)', 'size_on_disk_bytes': 7536404954, 'size_on_disk_gb': 7.54}"
+}
+{
+	"time": "2021-12-27 21:02:22,526",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Fire in the Sky', 'year': 1993, 'path': '/data/media/movies/Fire in the Sky (1993)', 'size_on_disk_bytes': 15801548138, 'size_on_disk_gb': 15.8}"
+}
+{
+	"time": "2021-12-27 21:02:22,709",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Black Widow', 'year': 2021, 'path': '/data/media/movies/Black Widow (2021)', 'size_on_disk_bytes': 8002254872, 'size_on_disk_gb': 8.0}"
+}
+{
+	"time": "2021-12-27 21:02:22,739",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Beaches', 'year': 1988, 'path': '/data/media/movies/Beaches (1988)', 'size_on_disk_bytes': 9384957656, 'size_on_disk_gb': 9.38}"
+}
+{
+	"time": "2021-12-27 21:02:22,831",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Big Business', 'year': 1988, 'path': '/data/media/movies/Big Business (1988)', 'size_on_disk_bytes': 8198172892, 'size_on_disk_gb': 8.2}"
+}
+{
+	"time": "2021-12-27 21:02:22,878",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Twist', 'year': 2021, 'path': '/data/media/movies/Twist (2021)', 'size_on_disk_bytes': 10569022776, 'size_on_disk_gb': 10.57}"
+}
+{
+	"time": "2021-12-27 21:02:23,111",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'A Quiet Place Part II', 'year': 2021, 'path': '/data/media/movies/A Quiet Place Part II (2021)', 'size_on_disk_bytes': 13985987549, 'size_on_disk_gb': 13.99}"
+}
+{
+	"time": "2021-12-27 21:02:23,164",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Space Jam A New Legacy', 'year': 2021, 'path': '/data/media/movies/Space Jam A New Legacy (2021)', 'size_on_disk_bytes': 7799415218, 'size_on_disk_gb': 7.8}"
+}
+{
+	"time": "2021-12-27 21:02:23,260",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Easy Rider', 'year': 1969, 'path': '/data/media/movies/Easy Rider (1969)', 'size_on_disk_bytes': 7888558423, 'size_on_disk_gb': 7.89}"
+}
+{
+	"time": "2021-12-27 21:02:23,461",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Girl in the Basement', 'year': 2021, 'path': '/data/media/movies/Girl in the Basement (2021)', 'size_on_disk_bytes': 5303701353, 'size_on_disk_gb': 5.3}"
+}
+{
+	"time": "2021-12-27 21:02:23,788",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Benny Loves You', 'year': 2019, 'path': '/data/media/movies/Benny Loves You (2019)', 'size_on_disk_bytes': 3815752470, 'size_on_disk_gb': 3.82}"
+}
+{
+	"time": "2021-12-27 21:02:23,893",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Midnight in the Switchgrass', 'year': 2021, 'path': '/data/media/movies/Midnight in the Switchgrass (2021)', 'size_on_disk_bytes': 12773016045, 'size_on_disk_gb': 12.77}"
+}
+{
+	"time": "2021-12-27 21:02:24,951",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Breaking  Exiting', 'year': 2018, 'path': '/data/media/movies/Breaking & Exiting (2018)', 'size_on_disk_bytes': 3654369184, 'size_on_disk_gb': 3.65}"
+}
+{
+	"time": "2021-12-27 21:02:25,142",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Deliverance', 'year': 1972, 'path': '/data/media/movies/Deliverance (1972)', 'size_on_disk_bytes': 5073665073, 'size_on_disk_gb': 5.07}"
+}
+{
+	"time": "2021-12-27 21:02:25,231",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Splice', 'year': 2009, 'path': '/data/media/movies/Splice (2009)', 'size_on_disk_bytes': 3024202054, 'size_on_disk_gb': 3.02}"
+}
+{
+	"time": "2021-12-27 21:02:25,372",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Sully', 'year': 2016, 'path': '/data/media/movies/Sully (2016)', 'size_on_disk_bytes': 5313775228, 'size_on_disk_gb': 5.31}"
+}
+{
+	"time": "2021-12-27 21:02:25,514",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Kissing Booth 3', 'year': 2021, 'path': '/data/media/movies/The Kissing Booth 3 (2021)', 'size_on_disk_bytes': 4124742030, 'size_on_disk_gb': 4.12}"
+}
+{
+	"time": "2021-12-27 21:02:25,580",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Snake Eyes GI Joe Origins', 'year': 2021, 'path': '/data/media/movies/Snake Eyes G.I. Joe Origins (2021)', 'size_on_disk_bytes': 6523812531, 'size_on_disk_gb': 6.52}"
+}
+{
+	"time": "2021-12-27 21:02:25,664",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Stillwater', 'year': 2021, 'path': '/data/media/movies/Stillwater (2021)', 'size_on_disk_bytes': 10429904728, 'size_on_disk_gb': 10.43}"
+}
+{
+	"time": "2021-12-27 21:02:25,819",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Infinite', 'year': 2021, 'path': '/data/media/movies/Infinite (2021)', 'size_on_disk_bytes': 6459312430, 'size_on_disk_gb': 6.46}"
+}
+{
+	"time": "2021-12-27 21:02:25,931",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Annette', 'year': 2021, 'path': '/data/media/movies/Annette (2021)', 'size_on_disk_bytes': 9161682175, 'size_on_disk_gb': 9.16}"
+}
+{
+	"time": "2021-12-27 21:02:26,118",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Reminiscence', 'year': 2021, 'path': '/data/media/movies/Reminiscence (2021)', 'size_on_disk_bytes': 7817098242, 'size_on_disk_gb': 7.82}"
+}
+{
+	"time": "2021-12-27 21:02:26,231",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Sweet Girl', 'year': 2021, 'path': '/data/media/movies/Sweet Girl (2021)', 'size_on_disk_bytes': 3841709985, 'size_on_disk_gb': 3.84}"
+}
+{
+	"time": "2021-12-27 21:02:27,951",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Respect', 'year': 2021, 'path': '/data/media/movies/Respect (2021)', 'size_on_disk_bytes': 14663657033, 'size_on_disk_gb': 14.66}"
+}
+{
+	"time": "2021-12-27 21:02:28,108",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ransom', 'year': 1996, 'path': '/data/media/movies/Ransom (1996)', 'size_on_disk_bytes': 3567122844, 'size_on_disk_gb': 3.57}"
+}
+{
+	"time": "2021-12-27 21:02:28,212",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Colony', 'year': 2021, 'path': '/data/media/movies/The Colony (2021)', 'size_on_disk_bytes': 6128895334, 'size_on_disk_gb': 6.13}"
+}
+{
+	"time": "2021-12-27 21:02:28,245",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'In the Heights', 'year': 2021, 'path': '/data/media/movies/In the Heights (2021)', 'size_on_disk_bytes': 12501637172, 'size_on_disk_gb': 12.5}"
+}
+{
+	"time": "2021-12-27 21:02:28,386",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Kwaidan', 'year': 1964, 'path': '/data/media/movies/Kwaidan (1964)', 'size_on_disk_bytes': 27069582768, 'size_on_disk_gb': 27.07}"
+}
+{
+	"time": "2021-12-27 21:02:28,456",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Monsters of Man', 'year': 2020, 'path': '/data/media/movies/Monsters of Man (2021)', 'size_on_disk_bytes': 9435809304, 'size_on_disk_gb': 9.44}"
+}
+{
+	"time": "2021-12-27 21:02:28,575",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Guilty', 'year': 2021, 'path': '/data/media/movies/The Guilty (2021)', 'size_on_disk_bytes': 3474207606, 'size_on_disk_gb': 3.47}"
+}
+{
+	"time": "2021-12-27 21:02:28,714",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Avengers', 'year': 1998, 'path': '/data/media/movies/The Avengers (1998)', 'size_on_disk_bytes': 9167924815, 'size_on_disk_gb': 9.17}"
+}
+{
+	"time": "2021-12-27 21:02:28,785",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Werckmeister Harmonies', 'year': 2000, 'path': '/data/media/movies/Werckmeister Harmonies (2000)', 'size_on_disk_bytes': 6142715468, 'size_on_disk_gb': 6.14}"
+}
+{
+	"time": "2021-12-27 21:02:28,898",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Dear Evan Hansen', 'year': 2021, 'path': '/data/media/movies/Dear Evan Hansen (2021)', 'size_on_disk_bytes': 4103471773, 'size_on_disk_gb': 4.1}"
+}
+{
+	"time": "2021-12-27 21:02:28,989",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Cry Macho', 'year': 2021, 'path': '/data/media/movies/Cry Macho (2021)', 'size_on_disk_bytes': 6714753316, 'size_on_disk_gb': 6.71}"
+}
+{
+	"time": "2021-12-27 21:02:29,056",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Old', 'year': 2021, 'path': '/data/media/movies/Old (2021)', 'size_on_disk_bytes': 5981758817, 'size_on_disk_gb': 5.98}"
+}
+{
+	"time": "2021-12-27 21:02:30,777",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Free Guy', 'year': 2021, 'path': '/data/media/movies/Free Guy (2021)', 'size_on_disk_bytes': 11447815879, 'size_on_disk_gb': 11.45}"
+}
+{
+	"time": "2021-12-27 21:02:30,901",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Suffragette', 'year': 2015, 'path': '/data/media/movies/Suffragette (2015)', 'size_on_disk_bytes': 11376793238, 'size_on_disk_gb': 11.38}"
+}
+{
+	"time": "2021-12-27 21:02:31,028",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Tomorrow War', 'year': 2021, 'path': '/data/media/movies/The Tomorrow War (2021)', 'size_on_disk_bytes': 8957101108, 'size_on_disk_gb': 8.96}"
+}
+{
+	"time": "2021-12-27 21:02:31,063",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Old Guard', 'year': 2020, 'path': '/data/media/movies/The Old Guard (2020)', 'size_on_disk_bytes': 6030971026, 'size_on_disk_gb': 6.03}"
+}
+{
+	"time": "2021-12-27 21:02:31,144",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Addams Family 2', 'year': 2021, 'path': '/data/media/movies/The Addams Family 2 (2021)', 'size_on_disk_bytes': 5302877850, 'size_on_disk_gb': 5.3}"
+}
+{
+	"time": "2021-12-27 21:02:31,213",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Night House', 'year': 2021, 'path': '/data/media/movies/The Night House (2021)', 'size_on_disk_bytes': 7053182125, 'size_on_disk_gb': 7.05}"
+}
+{
+	"time": "2021-12-27 21:02:31,303",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Comeback Trail', 'year': 2020, 'path': '/data/media/movies/The Comeback Trail (2020)', 'size_on_disk_bytes': 12441073589, 'size_on_disk_gb': 12.44}"
+}
+{
+	"time": "2021-12-27 21:02:31,408",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Settlers', 'year': 2021, 'path': '/data/media/movies/Settlers (2021)', 'size_on_disk_bytes': 5536296805, 'size_on_disk_gb': 5.54}"
+}
+{
+	"time": "2021-12-27 21:02:31,531",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Copshop', 'year': 2021, 'path': '/data/media/movies/Copshop (2021)', 'size_on_disk_bytes': 7631935335, 'size_on_disk_gb': 7.63}"
+}
+{
+	"time": "2021-12-27 21:02:31,621",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Titane', 'year': 2021, 'path': '/data/media/movies/Titane (2021)', 'size_on_disk_bytes': 5634778401, 'size_on_disk_gb': 5.63}"
+}
+{
+	"time": "2021-12-27 21:02:31,851",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'After We Fell', 'year': 2021, 'path': '/data/media/movies/After We Fell (2021)', 'size_on_disk_bytes': 4805199752, 'size_on_disk_gb': 4.81}"
+}
+{
+	"time": "2021-12-27 21:02:33,493",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'ShangChi and the Legend of the Ten Rings', 'year': 2021, 'path': '/data/media/movies/Shang-Chi and the Legend of the Ten Rings (2021)', 'size_on_disk_bytes': 6825495849, 'size_on_disk_gb': 6.83}"
+}
+{
+	"time": "2021-12-27 21:02:33,563",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Dave Chappelle The Closer', 'year': 2021, 'path': '/data/media/movies/Dave Chappelle The Closer (2021)', 'size_on_disk_bytes': 3559806296, 'size_on_disk_gb': 3.56}"
+}
+{
+	"time": "2021-12-27 21:02:33,668",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Harder They Fall', 'year': 2021, 'path': '/data/media/movies/The Harder They Fall (2021)', 'size_on_disk_bytes': 6529313747, 'size_on_disk_gb': 6.53}"
+}
+{
+	"time": "2021-12-27 21:02:33,700",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Apex', 'year': 2021, 'path': '/data/media/movies/Apex (2021)', 'size_on_disk_bytes': 7195268545, 'size_on_disk_gb': 7.2}"
+}
+{
+	"time": "2021-12-27 21:02:33,799",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Air Force One', 'year': 1997, 'path': '/data/media/movies/Air Force One (1997)', 'size_on_disk_bytes': 14233433745, 'size_on_disk_gb': 14.23}"
+}
+{
+	"time": "2021-12-27 21:02:33,906",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Finch', 'year': 2021, 'path': '/data/media/movies/Finch (2021)', 'size_on_disk_bytes': 2958867687, 'size_on_disk_gb': 2.96}"
+}
+{
+	"time": "2021-12-27 21:02:34,042",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The Green Inferno', 'year': 2014, 'path': '/data/media/movies/The Green Inferno (2014)', 'size_on_disk_bytes': 9499089582, 'size_on_disk_gb': 9.5}"
+}
+{
+	"time": "2021-12-27 21:02:34,137",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Ravenous', 'year': 1999, 'path': '/data/media/movies/Ravenous (1999)', 'size_on_disk_bytes': 10732728492, 'size_on_disk_gb': 10.73}"
+}
+{
+	"time": "2021-12-27 21:02:34,345",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Brawl in Cell Block 99', 'year': 2017, 'path': '/data/media/movies/Brawl in Cell Block 99 (2017)', 'size_on_disk_bytes': 3273805425, 'size_on_disk_gb': 3.27}"
+}
+{
+	"time": "2021-12-27 21:02:34,471",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Paranormal Activity Next of Kin', 'year': 2021, 'path': '/data/media/movies/Paranormal Activity Next of Kin (2021)', 'size_on_disk_bytes': 885343539, 'size_on_disk_gb': 0.89}"
+}
+{
+	"time": "2021-12-27 21:02:34,604",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Venom Let There Be Carnage', 'year': 2021, 'path': '/data/media/movies/Venom Let There Be Carnage (2021)', 'size_on_disk_bytes': 5338687573, 'size_on_disk_gb': 5.34}"
+}
+{
+	"time": "2021-12-27 21:02:34,844",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Spencer', 'year': 2021, 'path': '/data/media/movies/Spencer (2021)', 'size_on_disk_bytes': 10250275115, 'size_on_disk_gb': 10.25}"
+}
+{
+	"time": "2021-12-27 21:02:36,582",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Hold That Ghost', 'year': 1941, 'path': '/data/media/movies/Hold That Ghost (1941)', 'size_on_disk_bytes': 3961994213, 'size_on_disk_gb': 3.96}"
+}
+{
+	"time": "2021-12-27 21:02:36,640",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'The DevilDoll', 'year': 1936, 'path': '/data/media/movies/The Devil-Doll (1936)', 'size_on_disk_bytes': 1364997769, 'size_on_disk_gb': 1.36}"
+}
+{
+	"time": "2021-12-27 21:02:36,699",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Belfast', 'year': 2021, 'path': '/data/media/movies/Belfast (2021)', 'size_on_disk_bytes': 5412335291, 'size_on_disk_gb': 5.41}"
+}
+{
+	"time": "2021-12-27 21:02:36,764",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Rons Gone Wrong', 'year': 2021, 'path': "/data/media/movies/Ron's Gone Wrong (2021)", 'size_on_disk_bytes': 8992180368, 'size_on_disk_gb': 8.99}"
+}
+{
+	"time": "2021-12-27 21:02:36,958",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'SpiderMan No Way Home', 'year': 2021, 'path': '/data/media/movies/Spider-Man No Way Home (2021)', 'size_on_disk_bytes': 451291460, 'size_on_disk_gb': 0.45}"
+}
+{
+	"time": "2021-12-27 21:02:37,089",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Swan Song', 'year': 2021, 'path': '/data/media/movies/Swan Song (2021)', 'size_on_disk_bytes': 9094161486, 'size_on_disk_gb': 9.09}"
+}
+{
+	"time": "2021-12-27 21:02:37,178",
+	"logging_level":"INFO",
+	"message": "Deleted: {'title': 'Resident Evil Welcome to Raccoon City', 'year': 2021, 'path': '/data/media/movies/Resident Evil Welcome to Raccoon City (2021)', 'size_on_disk_bytes': 5909319916, 'size_on_disk_gb': 5.91}"
+}
+{
+	"time": "2021-12-27 21:02:37,178",
+	"logging_level":"INFO",
+	"message": "Movies deleted: 557"
+}
+{
+	"time": "2021-12-27 21:02:37,178",
+	"logging_level":"INFO",
+	"message": "Space saved: 4514GB"
+}
+{
+	"time": "2021-12-27 21:02:37,179",
+	"logging_level":"INFO",
+	"message": "106 movies could not be found."
+}
